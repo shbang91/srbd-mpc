@@ -1,0 +1,82 @@
+[
+{
+  "directory": "/home/srbd-mpc/build",
+  "command": "/usr/bin/c++ -Dsrbd_mpc_EXPORTS -I/usr/local/include/hpipm-cpp/hpipm -I/usr/local/include/hpipm-cpp -I/usr/local/include/hpipm-cpp/blasfeo -I/usr/include/eigen3 -I/opt/openrobots/include -I/home/srbd-mpc/include  --coverage -O3 -DNDEBUG -fPIC -std=gnu++11 -o CMakeFiles/srbd-mpc.dir/src/contact_schedule.cpp.o -c /home/srbd-mpc/src/contact_schedule.cpp",
+  "file": "/home/srbd-mpc/src/contact_schedule.cpp"
+},
+{
+  "directory": "/home/srbd-mpc/build",
+  "command": "/usr/bin/c++ -Dsrbd_mpc_EXPORTS -I/usr/local/include/hpipm-cpp/hpipm -I/usr/local/include/hpipm-cpp -I/usr/local/include/hpipm-cpp/blasfeo -I/usr/include/eigen3 -I/opt/openrobots/include -I/home/srbd-mpc/include  --coverage -O3 -DNDEBUG -fPIC -std=gnu++11 -o CMakeFiles/srbd-mpc.dir/src/cost_function.cpp.o -c /home/srbd-mpc/src/cost_function.cpp",
+  "file": "/home/srbd-mpc/src/cost_function.cpp"
+},
+{
+  "directory": "/home/srbd-mpc/build",
+  "command": "/usr/bin/c++ -Dsrbd_mpc_EXPORTS -I/usr/local/include/hpipm-cpp/hpipm -I/usr/local/include/hpipm-cpp -I/usr/local/include/hpipm-cpp/blasfeo -I/usr/include/eigen3 -I/opt/openrobots/include -I/home/srbd-mpc/include  --coverage -O3 -DNDEBUG -fPIC -std=gnu++11 -o CMakeFiles/srbd-mpc.dir/src/friction_cone.cpp.o -c /home/srbd-mpc/src/friction_cone.cpp",
+  "file": "/home/srbd-mpc/src/friction_cone.cpp"
+},
+{
+  "directory": "/home/srbd-mpc/build",
+  "command": "/usr/bin/c++ -Dsrbd_mpc_EXPORTS -I/usr/local/include/hpipm-cpp/hpipm -I/usr/local/include/hpipm-cpp -I/usr/local/include/hpipm-cpp/blasfeo -I/usr/include/eigen3 -I/opt/openrobots/include -I/home/srbd-mpc/include  --coverage -O3 -DNDEBUG -fPIC -std=gnu++11 -o CMakeFiles/srbd-mpc.dir/src/mpc.cpp.o -c /home/srbd-mpc/src/mpc.cpp",
+  "file": "/home/srbd-mpc/src/mpc.cpp"
+},
+{
+  "directory": "/home/srbd-mpc/build",
+  "command": "/usr/bin/c++ -Dsrbd_mpc_EXPORTS -I/usr/local/include/hpipm-cpp/hpipm -I/usr/local/include/hpipm-cpp -I/usr/local/include/hpipm-cpp/blasfeo -I/usr/include/eigen3 -I/opt/openrobots/include -I/home/srbd-mpc/include  --coverage -O3 -DNDEBUG -fPIC -std=gnu++11 -o CMakeFiles/srbd-mpc.dir/src/mpc_solution.cpp.o -c /home/srbd-mpc/src/mpc_solution.cpp",
+  "file": "/home/srbd-mpc/src/mpc_solution.cpp"
+},
+{
+  "directory": "/home/srbd-mpc/build",
+  "command": "/usr/bin/c++ -Dsrbd_mpc_EXPORTS -I/usr/local/include/hpipm-cpp/hpipm -I/usr/local/include/hpipm-cpp -I/usr/local/include/hpipm-cpp/blasfeo -I/usr/include/eigen3 -I/opt/openrobots/include -I/home/srbd-mpc/include  --coverage -O3 -DNDEBUG -fPIC -std=gnu++11 -o CMakeFiles/srbd-mpc.dir/src/qp_data.cpp.o -c /home/srbd-mpc/src/qp_data.cpp",
+  "file": "/home/srbd-mpc/src/qp_data.cpp"
+},
+{
+  "directory": "/home/srbd-mpc/build",
+  "command": "/usr/bin/c++ -Dsrbd_mpc_EXPORTS -I/usr/local/include/hpipm-cpp/hpipm -I/usr/local/include/hpipm-cpp -I/usr/local/include/hpipm-cpp/blasfeo -I/usr/include/eigen3 -I/opt/openrobots/include -I/home/srbd-mpc/include  --coverage -O3 -DNDEBUG -fPIC -std=gnu++11 -o CMakeFiles/srbd-mpc.dir/src/qp_solver.cpp.o -c /home/srbd-mpc/src/qp_solver.cpp",
+  "file": "/home/srbd-mpc/src/qp_solver.cpp"
+},
+{
+  "directory": "/home/srbd-mpc/build",
+  "command": "/usr/bin/c++ -Dsrbd_mpc_EXPORTS -I/usr/local/include/hpipm-cpp/hpipm -I/usr/local/include/hpipm-cpp -I/usr/local/include/hpipm-cpp/blasfeo -I/usr/include/eigen3 -I/opt/openrobots/include -I/home/srbd-mpc/include  --coverage -O3 -DNDEBUG -fPIC -std=gnu++11 -o CMakeFiles/srbd-mpc.dir/src/robot_state.cpp.o -c /home/srbd-mpc/src/robot_state.cpp",
+  "file": "/home/srbd-mpc/src/robot_state.cpp"
+},
+{
+  "directory": "/home/srbd-mpc/build",
+  "command": "/usr/bin/c++ -Dsrbd_mpc_EXPORTS -I/usr/local/include/hpipm-cpp/hpipm -I/usr/local/include/hpipm-cpp -I/usr/local/include/hpipm-cpp/blasfeo -I/usr/include/eigen3 -I/opt/openrobots/include -I/home/srbd-mpc/include  --coverage -O3 -DNDEBUG -fPIC -std=gnu++11 -o CMakeFiles/srbd-mpc.dir/src/single_rigid_body.cpp.o -c /home/srbd-mpc/src/single_rigid_body.cpp",
+  "file": "/home/srbd-mpc/src/single_rigid_body.cpp"
+},
+{
+  "directory": "/home/srbd-mpc/build",
+  "command": "/usr/bin/c++ -Dsrbd_mpc_EXPORTS -I/usr/local/include/hpipm-cpp/hpipm -I/usr/local/include/hpipm-cpp -I/usr/local/include/hpipm-cpp/blasfeo -I/usr/include/eigen3 -I/opt/openrobots/include -I/home/srbd-mpc/include  --coverage -O3 -DNDEBUG -fPIC -std=gnu++11 -o CMakeFiles/srbd-mpc.dir/src/state_equation.cpp.o -c /home/srbd-mpc/src/state_equation.cpp",
+  "file": "/home/srbd-mpc/src/state_equation.cpp"
+},
+{
+  "directory": "/home/srbd-mpc/build/test",
+  "command": "/usr/bin/c++  -I/usr/local/include/hpipm-cpp/hpipm -I/usr/local/include/hpipm-cpp -I/usr/local/include/hpipm-cpp/blasfeo -I/home/srbd-mpc/build/external/src/googletest/googletest/include -I/home/srbd-mpc/build/external/src/googletest/googlemock/include -I/home/srbd-mpc/build/external/src/googletest-build/lib/libgtest.a -I/home/srbd-mpc/include -I/home/srbd-mpc/test/test_helper -I/usr/include/eigen3 -I/opt/openrobots/include  --coverage -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/contact_schedule_test.dir/contact_schedule_test.cpp.o -c /home/srbd-mpc/test/contact_schedule_test.cpp",
+  "file": "/home/srbd-mpc/test/contact_schedule_test.cpp"
+},
+{
+  "directory": "/home/srbd-mpc/build/test",
+  "command": "/usr/bin/c++  -I/usr/local/include/hpipm-cpp/hpipm -I/usr/local/include/hpipm-cpp -I/usr/local/include/hpipm-cpp/blasfeo -I/home/srbd-mpc/build/external/src/googletest/googletest/include -I/home/srbd-mpc/build/external/src/googletest/googlemock/include -I/home/srbd-mpc/build/external/src/googletest-build/lib/libgtest.a -I/home/srbd-mpc/include -I/home/srbd-mpc/test/test_helper -I/usr/include/eigen3 -I/opt/openrobots/include  --coverage -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/cost_function_test.dir/cost_function_test.cpp.o -c /home/srbd-mpc/test/cost_function_test.cpp",
+  "file": "/home/srbd-mpc/test/cost_function_test.cpp"
+},
+{
+  "directory": "/home/srbd-mpc/build/test",
+  "command": "/usr/bin/c++  -I/usr/local/include/hpipm-cpp/hpipm -I/usr/local/include/hpipm-cpp -I/usr/local/include/hpipm-cpp/blasfeo -I/home/srbd-mpc/build/external/src/googletest/googletest/include -I/home/srbd-mpc/build/external/src/googletest/googlemock/include -I/home/srbd-mpc/build/external/src/googletest-build/lib/libgtest.a -I/home/srbd-mpc/include -I/home/srbd-mpc/test/test_helper -I/usr/include/eigen3 -I/opt/openrobots/include  --coverage -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/friction_cone_test.dir/friction_cone_test.cpp.o -c /home/srbd-mpc/test/friction_cone_test.cpp",
+  "file": "/home/srbd-mpc/test/friction_cone_test.cpp"
+},
+{
+  "directory": "/home/srbd-mpc/build/test",
+  "command": "/usr/bin/c++  -I/usr/local/include/hpipm-cpp/hpipm -I/usr/local/include/hpipm-cpp -I/usr/local/include/hpipm-cpp/blasfeo -I/home/srbd-mpc/build/external/src/googletest/googletest/include -I/home/srbd-mpc/build/external/src/googletest/googlemock/include -I/home/srbd-mpc/build/external/src/googletest-build/lib/libgtest.a -I/home/srbd-mpc/include -I/home/srbd-mpc/test/test_helper -I/usr/include/eigen3 -I/opt/openrobots/include  --coverage -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/robot_state_test.dir/robot_state_test.cpp.o -c /home/srbd-mpc/test/robot_state_test.cpp",
+  "file": "/home/srbd-mpc/test/robot_state_test.cpp"
+},
+{
+  "directory": "/home/srbd-mpc/build/test",
+  "command": "/usr/bin/c++  -I/usr/local/include/hpipm-cpp/hpipm -I/usr/local/include/hpipm-cpp -I/usr/local/include/hpipm-cpp/blasfeo -I/home/srbd-mpc/build/external/src/googletest/googletest/include -I/home/srbd-mpc/build/external/src/googletest/googlemock/include -I/home/srbd-mpc/build/external/src/googletest-build/lib/libgtest.a -I/home/srbd-mpc/include -I/home/srbd-mpc/test/test_helper -I/usr/include/eigen3 -I/opt/openrobots/include  --coverage -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/single_rigid_body_test.dir/single_rigid_body_test.cpp.o -c /home/srbd-mpc/test/single_rigid_body_test.cpp",
+  "file": "/home/srbd-mpc/test/single_rigid_body_test.cpp"
+},
+{
+  "directory": "/home/srbd-mpc/build/test",
+  "command": "/usr/bin/c++  -I/usr/local/include/hpipm-cpp/hpipm -I/usr/local/include/hpipm-cpp -I/usr/local/include/hpipm-cpp/blasfeo -I/home/srbd-mpc/build/external/src/googletest/googletest/include -I/home/srbd-mpc/build/external/src/googletest/googlemock/include -I/home/srbd-mpc/build/external/src/googletest-build/lib/libgtest.a -I/home/srbd-mpc/include -I/home/srbd-mpc/test/test_helper -I/usr/include/eigen3 -I/opt/openrobots/include  --coverage -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/mpc_test.dir/mpc_test.cpp.o -c /home/srbd-mpc/test/mpc_test.cpp",
+  "file": "/home/srbd-mpc/test/mpc_test.cpp"
+}
+]

@@ -2,12 +2,18 @@ cmake_minimum_required(VERSION 3.11)
 project(srbd-mpc CXX)
 set(CMAKE_CXX_STANDARD 11)
 
+link_directories("/usr/local/lib")
+include_directories("/usr/local/include")
+
 #############
 ## Options ##
 #############
 option(OPTIMIZE_FOR_NATIVE "Enable -march=native" OFF)
-option(BUILD_TESTING "Build testing" OFF)
+#option(BUILD_TESTING "Build testing" ON)
+set(BUILD_TESTING ON)
+set(CMAKE_BUILD_TYPE Release)
 
+list(APPEND CMAKE_MODULE_PATH "${CMAKE_SOURCE_DIR}/cmake")
 ####################
 ## Build srbd-mpc ##
 ####################
@@ -20,7 +26,8 @@ find_package(Eigen3 REQUIRED)
 # find pinocchio
 find_package(pinocchio REQUIRED)
 # find hpipm-cpp
-find_package(hpipm-cpp REQUIRED)
+find_package(my_hpipm-cpp REQUIRED)
+include_directories(${HPIPM_INCLUDE_DIRECTORIES})
 # build lib
 file(GLOB_RECURSE ${PROJECT_NAME}_SOURCES src/*.cpp)
 file(GLOB_RECURSE ${PROJECT_NAME}_HEADERS include/${PROJECT_NAME}/*.h*)
@@ -34,14 +41,14 @@ target_link_libraries(
   ${PROJECT_NAME} 
   PUBLIC
   ${PINOCCHIO_LIBRARIES}
-  hpipm-cpp::hpipm-cpp
+  ${HPIPM_LIBRARIES}
 )
 target_include_directories(
   ${PROJECT_NAME} 
   PUBLIC
   ${EIGEN3_INCLUDE_DIR}
   ${PINOCCHIO_INCLUDE_DIRS}
-  ${hpipm-cpp_INCLUDE_DIRS}
+  ${HPIPM_INCLUDE_DIRECTORIES}
   $<BUILD_INTERFACE:${PROJECT_SOURCE_DIR}/include>
   $<INSTALL_INTERFACE:include>
 )
