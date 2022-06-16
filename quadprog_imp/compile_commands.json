@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/junhyeokahn/Repository/srbd-mpc/quadprog_imp/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/junhyeokahn/Repository/srbd-mpc/quadprog_imp -I/usr/local/include -I/opt/homebrew/include/eigen3  -fPIC -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.0.sdk -std=gnu++17 -o CMakeFiles/main.dir/main.cpp.o -c /Users/junhyeokahn/Repository/srbd-mpc/quadprog_imp/main.cpp",
+  "file": "/Users/junhyeokahn/Repository/srbd-mpc/quadprog_imp/main.cpp"
+},
+{
+  "directory": "/Users/junhyeokahn/Repository/srbd-mpc/quadprog_imp/build/goldfarb",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -Dgoldfarb_EXPORTS -I/Users/junhyeokahn/Repository/srbd-mpc/quadprog_imp -I/usr/local/include -I/opt/homebrew/include/eigen3  -fPIC -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.0.sdk -fPIC -std=gnu++17 -o CMakeFiles/goldfarb.dir/Array.cc.o -c /Users/junhyeokahn/Repository/srbd-mpc/quadprog_imp/goldfarb/Array.cc",
+  "file": "/Users/junhyeokahn/Repository/srbd-mpc/quadprog_imp/goldfarb/Array.cc"
+},
+{
+  "directory": "/Users/junhyeokahn/Repository/srbd-mpc/quadprog_imp/build/goldfarb",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -Dgoldfarb_EXPORTS -I/Users/junhyeokahn/Repository/srbd-mpc/quadprog_imp -I/usr/local/include -I/opt/homebrew/include/eigen3  -fPIC -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.0.sdk -fPIC -std=gnu++17 -o CMakeFiles/goldfarb.dir/QuadProg++.cc.o -c /Users/junhyeokahn/Repository/srbd-mpc/quadprog_imp/goldfarb/QuadProg++.cc",
+  "file": "/Users/junhyeokahn/Repository/srbd-mpc/quadprog_imp/goldfarb/QuadProg++.cc"
+},
+{
+  "directory": "/Users/junhyeokahn/Repository/srbd-mpc/quadprog_imp/build/mpc",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -Dmpc_EXPORTS -I/Users/junhyeokahn/Repository/srbd-mpc/quadprog_imp -I/usr/local/include -I/opt/homebrew/include/eigen3  -fPIC -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.0.sdk -fPIC -std=gnu++17 -o CMakeFiles/mpc.dir/gait_cycle.cpp.o -c /Users/junhyeokahn/Repository/srbd-mpc/quadprog_imp/mpc/gait_cycle.cpp",
+  "file": "/Users/junhyeokahn/Repository/srbd-mpc/quadprog_imp/mpc/gait_cycle.cpp"
+},
+{
+  "directory": "/Users/junhyeokahn/Repository/srbd-mpc/quadprog_imp/build/mpc",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -Dmpc_EXPORTS -I/Users/junhyeokahn/Repository/srbd-mpc/quadprog_imp -I/usr/local/include -I/opt/homebrew/include/eigen3  -fPIC -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.0.sdk -fPIC -std=gnu++17 -o CMakeFiles/mpc.dir/reaction_force_schedule.cpp.o -c /Users/junhyeokahn/Repository/srbd-mpc/quadprog_imp/mpc/reaction_force_schedule.cpp",
+  "file": "/Users/junhyeokahn/Repository/srbd-mpc/quadprog_imp/mpc/reaction_force_schedule.cpp"
+},
+{
+  "directory": "/Users/junhyeokahn/Repository/srbd-mpc/quadprog_imp/build/mpc",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -Dmpc_EXPORTS -I/Users/junhyeokahn/Repository/srbd-mpc/quadprog_imp -I/usr/local/include -I/opt/homebrew/include/eigen3  -fPIC -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.0.sdk -fPIC -std=gnu++17 -o CMakeFiles/mpc.dir/srbd_mpc.cpp.o -c /Users/junhyeokahn/Repository/srbd-mpc/quadprog_imp/mpc/srbd_mpc.cpp",
+  "file": "/Users/junhyeokahn/Repository/srbd-mpc/quadprog_imp/mpc/srbd_mpc.cpp"
+}
+]
