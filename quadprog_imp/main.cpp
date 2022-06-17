@@ -8,6 +8,7 @@ void run_toy_exmaple() {
 };
 
 void run_with_pnc_input() {
+
   SRBDMPC mpc = SRBDMPC();
   // ---------------------------------------------------------------------------
   // Get from YAML in PnC, send to configure MPC
@@ -106,4 +107,7 @@ void run_with_pnc_input() {
   mpc.solve_mpc(x0, X_des, r_feet, x_pred, f_vec_out);
 };
 
-int main(int argc, char *argv[]) { return 0; }
+int main(int argc, char *argv[]) {
+  run_with_pnc_input();
+  return 0;
+}

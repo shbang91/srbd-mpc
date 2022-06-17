@@ -326,7 +326,7 @@ void SRBDMPC::cont_time_state_space(const Eigen::VectorXd &x_current,
   B = Eigen::MatrixXd::Zero(13, 3 * n_Fr);
   Eigen::MatrixXd eye3 = Eigen::MatrixXd::Identity(3, 3);
   for (int i = 0; i < n_Fr; i++) {
-    B.block(6, i * 3, 3, 3) = I_inv * skew_sym_mat(r_feet_com.col(i));
+    B.block(6, i * 3, 3, 3) = I_inv * skew_sym_mat(r_feet_com.col(i)); // TODO
     B.block(9, i * 3, 3, 3) = eye3 * 1.0 / robot_mass;
   }
 
@@ -502,8 +502,6 @@ void SRBDMPC::get_qp_constraints(const Eigen::MatrixXd &CMat,
                                         // constraints (unilateral constraints)
 
   // Set the force constraints over the horizon
-  // To DO: add 0 upperbound when reaction force should be 0.0 depending on
-  // the gate cycle.
   double preview_time = t_preview_start;
   for (int i = 0; i < horizon; i++) {
     Cqp.block(i * num_rows, i * num_cols, num_rows, num_cols) = CMat;
@@ -522,7 +520,8 @@ void SRBDMPC::get_qp_constraints(const Eigen::MatrixXd &CMat,
       // necessary
       cvec_qp[i * num_rows + 6 * j + 4] =
           (static_cast<double>(gait_cycle_ptr->getContactState(j))) *
-          reaction_force_schedule_ptr->getMaxNormalForce(j, preview_time);
+          reaction_force_schedule_ptr->getMaxNormalForce(j,
+                                                         preview_time); // TODO
       // printf("    contact:%i, max force:%0.4f\n", j,
       // reaction_force_schedule_ptr->getMaxNormalForce(j, preview_time));
       // printf("    contact:%i, max force:%0.4f\n", j,  cvec_qp[i * num_rows +

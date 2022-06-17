@@ -33,12 +33,12 @@ public:
   // phase_value \in [0, 1)
   // Returns 1 if the contact point is active. 0 otherwise.
   //	   ignoring wrap arounds and swing time < gait duration time, the
-  //convention is that with no offsets, 	   if (gait duration-swing time) <= t-t0 <=
-  //gait duration, then the contact point is NOT active 	   where t is the current
-  //time and t0 is the start time.
+  // convention is that with no offsets, 	   if (gait duration-swing time)
+  // <= t-t0 <= gait duration, then the contact point is NOT active
+  // where t is the current time and t0 is the start time.
   //     considering wrap-arounds, equivalently,
   //	   if the phase variable, phi satisfies: phi >= (gait duration - swing
-  //time)/gait duration, then the contact point is not active
+  // time)/gait duration, then the contact point is not active
   int getContactStateGivenPhaseValue(const double phase_value);
 
   // Updates an internal model of the contact states of the gait
