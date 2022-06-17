@@ -27,3 +27,7 @@ add_subdirectory(mpc)
 
 add_executable(main main.cpp)
 target_link_libraries(main mpc goldfarb)
+
+# Testing #
+enable_testing()
+add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/test)
