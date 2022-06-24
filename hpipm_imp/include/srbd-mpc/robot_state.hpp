@@ -31,6 +31,10 @@ public:
     return R_;
   }
 
+  const Matrix3d& I_local() const {
+    return I_local_;
+  }
+
   const Quaterniond& quat() const {
     return quat_;
   }
@@ -70,6 +74,7 @@ private:
   pinocchio::Data data_;
   Quaterniond quat_;
   Matrix3d R_;
+  Matrix3d I_local_;
   Vector7d pose_;
   Vector3d w_local_, w_world_;
   Vector6d twist_local_, twist_world_;

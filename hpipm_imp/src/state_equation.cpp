@@ -53,6 +53,8 @@ void StateEquation::setQP(const ContactSchedule& contact_schedule,
                           const RobotState& robot_state, QPData& qp_data) {
   // rotation matrix
   R_ = robot_state.R();
+  // Update inerta from current robot state
+  I_local_ = robot_state.I_local();
   // global inertia matrix
   I_global_inv_.noalias() = R_.transpose() * I_local_;
   I_global_.noalias() = I_global_inv_ * R_;
