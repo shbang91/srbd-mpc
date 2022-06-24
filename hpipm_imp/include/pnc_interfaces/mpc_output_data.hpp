@@ -4,7 +4,7 @@ class MPCOutputData {
     public:
         MPCOutputData() {}
         virtual ~MPCOutputData() = default;
-    protected:
+    // protected:
         // state results
         Eigen::VectorXd euler_angle_;
         Eigen::VectorXd com_pos_;
