@@ -7,11 +7,12 @@
 
 namespace srbdmpc {
 
-FrictionCone::FrictionCone(const double mu, const double fzmin, const double fzmax)
+FrictionCone::FrictionCone(const double mu, const double fzmin, const double fzmax, const int num_contacts)
   : mu_(mu),
     fzmin_(fzmin),
     fzmax_(fzmax),
-    cone_(MatrixXd::Zero(16, 12)) {
+    num_contacts_(num_contacts),
+    cone_(MatrixXd::Zero(4*num_contacts, 3*num_contacts)) {
   try {
     if (mu <= 0.0) {
       throw std::out_of_range("Invalid argument: mu must be positive!");
@@ -32,7 +33,7 @@ FrictionCone::FrictionCone(const double mu, const double fzmin, const double fzm
           -1.0,  0.0, -(mu/std::sqrt(2)),
            0.0,  1.0, -(mu/std::sqrt(2)),
            0.0, -1.0, -(mu/std::sqrt(2));
-  for (int i=0; i<4; ++i) {
+  for (int i=0; i<num_contacts_; ++i) {
     cone_.block(4*i, 3*i, 4, 3) = cone;
   }
 }
@@ -41,7 +42,8 @@ FrictionCone::FrictionCone(const double mu, const double fzmin, const double fzm
 FrictionCone::FrictionCone()
   : mu_(),
     fzmin_(),
-    fzmax_() {
+    fzmax_(),
+    num_contacts_() {
 }
 
 
@@ -58,9 +60,9 @@ void FrictionCone::setQP(QPData& qp_data) const {
   }
   for (int i=0; i<qp_data.dim.N; ++i) {
     qp_data.qp.C[i].setZero();
-    const int num_conatcts = qp_data.dim.nbu[i] / 3;
+    const int num_contacts = qp_data.dim.nbu[i] / 3;
     assert(qp_data.dim.nbu[i] % 3 == 0);
-    if (num_conatcts > 0) {
+    if (num_contacts > 0) {
       qp_data.qp.D[i] 
           = cone_.topLeftCorner(qp_data.qp.D[i].rows(), qp_data.qp.D[i].cols());
     }

@@ -11,7 +11,8 @@ namespace srbdmpc {
 class FrictionCone {
 public:
   FrictionCone(const double mu, const double fzmin=0.0, 
-               const double fzmax=std::numeric_limits<double>::infinity());
+               const double fzmax=std::numeric_limits<double>::infinity(),
+               const int num_contacts=4);
 
   FrictionCone();
 
@@ -21,6 +22,7 @@ public:
 
 private:
   double mu_, fzmin_, fzmax_;
+  int num_contacts_;
   MatrixXd cone_;
 };
 

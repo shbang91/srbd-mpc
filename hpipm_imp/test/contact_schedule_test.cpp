@@ -21,7 +21,7 @@ protected:
 };
 
 TEST_F(ContactScheduleTest, testContactSchedule) {
-  ContactSchedule contact_schedule(T, N);
+  ContactSchedule contact_schedule(T, N, 4);
   EXPECT_DOUBLE_EQ(contact_schedule.T(), T);
   EXPECT_DOUBLE_EQ(contact_schedule.dt(), dt);
   EXPECT_EQ(contact_schedule.N(), N);

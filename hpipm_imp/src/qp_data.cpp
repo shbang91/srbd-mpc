@@ -6,15 +6,16 @@ namespace srbdmpc {
 void QPData::init(const ContactSchedule& contact_schedule) {
   // Here, we allocate memory as the possible maximum size.
   const int N = contact_schedule.N();
+  num_contacts_ = contact_schedule.num_contacts();
   dim.resize(N);
-  const int nx = 12;
-  const int nu = 12; // possible max size
+  const int nx = num_contacts_*3;
+  const int nu = num_contacts_*3; // possible max size
   hpipm::fill_vector(dim.nx, nx);
   hpipm::fill_vector(dim.nu, nu);
   hpipm::fill_vector(dim.nbx, 0);
   dim.nbx[0] = nx;
-  hpipm::fill_vector(dim.nbu, 4); // fz_min < fz < fz_max for 4 legs
-  hpipm::fill_vector(dim.ng, 16); // -inf < cone * [fx, fy, fz] < 0 for 4 legs
+  hpipm::fill_vector(dim.nbu, num_contacts_); // fz_min < fz < fz_max for each leg
+  hpipm::fill_vector(dim.ng, 4*num_contacts_); // -inf < cone * [fx, fy, fz] < 0 for each leg
   dim.ng[N] = 0;
   const auto dim_err_msg = dim.checkSize();
   if (!dim_err_msg.empty()) {
@@ -58,12 +59,11 @@ void QPData::init(const ContactSchedule& contact_schedule) {
 
 void QPData::resize(const ContactSchedule& contact_schedule) {
   for (int i=0; i<dim.N; ++i) {
+    // Three forces per active contact
     dim.nu[i] = 3 * contact_schedule.numActiveContacts(contact_schedule.phase(i));
-  }
-  for (int i=0; i<dim.N; ++i) {
+    // Three control input bounds per active contact
     dim.nbu[i] = 3 * contact_schedule.numActiveContacts(contact_schedule.phase(i));
-  }
-  for (int i=0; i<dim.N; ++i) {
+    // Four ground forces at each corner of a contact   
     dim.ng[i] = 4 * contact_schedule.numActiveContacts(contact_schedule.phase(i));
   }
   const auto dim_err_msg = dim.checkSize();

@@ -27,6 +27,7 @@ public:
   hpipm::OcpQpDim dim;
   hpipm::OcpQp qp;
   hpipm::OcpQpSolution qp_solution;
+  int num_contacts_;
 };
 
 } // namespace srbdmpc

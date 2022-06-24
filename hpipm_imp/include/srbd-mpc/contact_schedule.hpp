@@ -11,7 +11,7 @@ namespace srbdmpc {
 
 class ContactSchedule {
 public:
-  ContactSchedule(const double T, const int N);
+  ContactSchedule(const double T, const int N, const int num_contacts);
 
   ContactSchedule() = default;
 
@@ -47,13 +47,17 @@ public:
     return T_;
   }
 
+  int num_contacts() const {
+    return num_contacts_;
+  }
+
   double dt() const {
     return dt_;
   }
 
 private:
   double T_, dt_;
-  int N_;
+  int N_, num_contacts_;
   std::vector<double> t_;
   std::vector<std::vector<bool>> is_contact_active_;
   std::vector<int> num_active_contacts_;

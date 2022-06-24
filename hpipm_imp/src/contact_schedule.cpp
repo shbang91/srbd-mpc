@@ -7,13 +7,14 @@
 
 namespace srbdmpc {
 
-ContactSchedule::ContactSchedule(const double T, const int N) 
+ContactSchedule::ContactSchedule(const double T, const int N, const int num_contacts) 
   : T_(T), 
     dt_(T/N),
-    N_(N), 
+    N_(N),
+    num_contacts_(num_contacts),
     t_({0.}),
-    is_contact_active_({std::vector<bool>({true, true, true, true})}),
-    num_active_contacts_({4}),
+    is_contact_active_({std::vector<bool>(num_contacts, true)}),
+    num_active_contacts_({num_contacts}),
     phase_(N+1, 0) {
   try {
     if (T <= 0.0) {
@@ -41,7 +42,7 @@ int countNumActiveContacts(const std::vector<bool>& is_contact_active) {
 
 void ContactSchedule::reset(const double t, 
                             const std::vector<bool>& is_contact_active) {
-  assert(is_contact_active.size() == 4);
+  assert(is_contact_active.size() == num_contacts_);
   t_.clear();
   t_.push_back(t);
   is_contact_active_.clear();
@@ -54,7 +55,7 @@ void ContactSchedule::reset(const double t,
 
 void ContactSchedule::push_back(const double t, 
                                 const std::vector<bool>& is_contact_active) {
-  assert(is_contact_active.size() == 4);
+  assert(is_contact_active.size() == num_contacts_);
   if (t >= t_.front() + dt_ && t < t_.back() + T_) {
     t_.push_back(t);
     is_contact_active_.push_back(is_contact_active);

@@ -24,17 +24,8 @@ RobotState::RobotState(const std::string& urdf,
     w_local_(Vector3d::Zero()), 
     w_world_(Vector3d::Zero()),
     feet_(),
-    fk_(4, Vector3d::Zero()),
-    fk_skew_(4, Matrix3d::Zero()) {
-  try {
-    if (feet.size() != 4) {
-      throw std::out_of_range("Invalid argument: feet.size() must be 4!");
-    }
-  }
-  catch(const std::exception& e) {
-    std::cerr << e.what() << '\n';
-    std::exit(EXIT_FAILURE);
-  }
+    fk_(feet.size(), Vector3d::Zero()),
+    fk_skew_(feet.size(), Matrix3d::Zero()) {
   pinocchio::urdf::buildModel(urdf, 
                               pinocchio::JointModelFreeFlyer(), model_);
   data_ = pinocchio::Data(model_);
@@ -55,7 +46,7 @@ void RobotState::update(const Vector19d& q, const Vector18d& v) {
   twist_local_ = v.template head<6>();
   twist_world_.template head<3>().noalias() = R_ * v.template head<3>();
   twist_world_.template tail<3>() = w_world_;
-  for (int i=0; i<4; ++i) {
+  for (int i=0; i<feet_.size(); ++i) {
     fk_[i] = data_.oMf[feet_[i]].translation() - data_.com[0];
     pinocchio::skew(fk_[i], fk_skew_[i]);
   }

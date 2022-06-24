@@ -45,7 +45,7 @@ TEST_F(MPCTest, testMPC) {
   auto friction_cone = FrictionCone(mu, fzmin, fzmax);
   MPC mpc(state_equation, cost_function, friction_cone);
 
-  auto contact_schedule = ContactSchedule(T, N);
+  auto contact_schedule = ContactSchedule(T, N, 4);
   const double t0 = 0.0;
   const double t1 = 0.3;
   const double t2 = 0.55;

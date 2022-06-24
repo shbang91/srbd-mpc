@@ -12,7 +12,7 @@ void MPCSolution::init(const ContactSchedule& contact_schedule) {
   twist_ = aligned_vector<Vector6d>(N+1, Vector6d::Zero());
   v_ = aligned_vector<Vector3d>(N+1, Vector3d::Zero());
   w_ = aligned_vector<Vector3d>(N+1, Vector3d::Zero());
-  f_ = aligned_vector<aligned_vector<Vector3d>>(N, aligned_vector<Vector3d>(4, Vector3d::Zero()));
+  f_ = aligned_vector<aligned_vector<Vector3d>>(N, aligned_vector<Vector3d>(contact_schedule.num_contacts(), Vector3d::Zero()));
 }
 
 
@@ -37,7 +37,7 @@ void MPCSolution::update(const ContactSchedule& contact_schedule,
   // contact_schedule
   for (int i=0; i<N; ++i) {
     int nu = 0;
-    for (int j=0; j<4; ++j) {
+    for (int j=0; j<contact_schedule.num_contacts(); ++j) {
       const int phase = contact_schedule.phase(i);
       if (contact_schedule.isContactActive(phase)[j]) {
         f_[i][j] = qp_data.qp_solution.u[i].template segment<3>(nu);

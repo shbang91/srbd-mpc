@@ -69,7 +69,7 @@ public:
 
   EIGEN_MAKE_ALIGNED_OPERATOR_NEW
 
-private:
+protected:
   pinocchio::Model model_;
   pinocchio::Data data_;
   Quaterniond quat_;
