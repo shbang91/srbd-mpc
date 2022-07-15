@@ -3,7 +3,8 @@
 #include "mpc/srbd_mpc.hpp"
 
 void run_toy_exmaple() {
-  SRBDMPC mpc = SRBDMPC();
+  // SRBDMPC mpc = SRBDMPC();
+  SRBDMPC mpc;
   mpc.simulate_toy_mpc();
 };
 
@@ -108,6 +109,7 @@ void run_with_pnc_input() {
 };
 
 int main(int argc, char *argv[]) {
-  run_with_pnc_input();
+  // run_with_pnc_input();
+  run_toy_exmaple();
   return 0;
 }

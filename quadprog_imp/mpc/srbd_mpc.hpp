@@ -2,19 +2,28 @@
 #define H_CONVEX_MPC
 
 #include <Eigen/Dense>
+#include <algorithm>
 #include <chrono>
+#include <ctime>
+#include <fstream>
 #include <iostream>
+#include <list>
 #include <math.h>
 #include <memory>
+#include <ratio>
 #include <stdio.h>
+#include <string>
 #include <unsupported/Eigen/MatrixFunctions>
+#include <vector>
 
 #include "goldfarb/QuadProg++.hh"
 #include "mpc/gait_cycle.hpp"
 #include "mpc/reaction_force_schedule.hpp"
 
-// #define MPC_PRINT_ALL
-// #define MPC_TIME_ALL
+#include "configuration.hpp"
+
+//#define MPC_PRINT_ALL
+#define MPC_TIME_ALL
 
 // We are following the MPC formulation from:
 // Di Carlo, Jared, et al. "Dynamic locomotion in the mit cheetah 3 through
@@ -230,6 +239,14 @@ private:
                     const Eigen::MatrixXd &D0, const Eigen::VectorXd &f_prev_in,
                     const Eigen::MatrixXd &Cqp, const Eigen::VectorXd &cvec_qp,
                     Eigen::VectorXd &f_vec_out);
+
+  std::vector<double> qp_mult_dur_;
+  std::vector<double> qp_prep_dur_;
+  std::vector<double> qp_solve_dur_;
+  void SaveValue(double _value, std::string _name, bool b_param = false);
+  void CleaningFile(std::string file_name_, std::string &ret_file_,
+                    bool b_param);
+  static std::list<std::string> gs_fileName_string; // global & static
 };
 
 #endif

@@ -2,6 +2,7 @@
 
 // Constructor
 SRBDMPC::SRBDMPC() {
+  std::cout << "defulat constructor called" << std::endl;
   // Set Defaults
   robot_mass = 50; // kg mass of the robot
   I_robot = Eigen::MatrixXd::Identity(
@@ -762,6 +763,14 @@ void SRBDMPC::solve_mpc_qp(
 #ifdef MPC_TIME_ALL
   std::cout << "QP took " << dur_qp_solve << " seconds." << std::endl;
   std::cout << "QP rate " << (1.0 / dur_qp_solve) << " Hz" << std::endl;
+
+  SaveValue(dur_qp_mult, "qp_mult_dur");
+  SaveValue(dur_qp_prep, "qp_prep_dur");
+  SaveValue(dur_qp_solve, "qp_solve_dur");
+
+  // qp_mult_dur_.push_back(dur_qp_mult);
+  // qp_prep_dur_.push_back(dur_qp_prep);
+  // qp_solve_dur_.push_back(dur_qp_solve);
 #endif
 }
 
@@ -1034,7 +1043,9 @@ void SRBDMPC::simulate_toy_mpc() {
       n); // Container to hold the predicted state after 1 horizon timestep
 
   // Solve the MPC
+
   solve_mpc(x0, X_des, r_feet, x_pred, f_vec_out);
+
   print_f_vec(n_Fr, f_vec_out);
   // Populate force output from 1 horizon.
   assemble_vec_to_matrix(3, n_Fr, f_vec_out.head(3 * n_Fr), f_Mat);
@@ -1119,4 +1130,30 @@ void SRBDMPC::simulate_toy_mpc() {
     // last_control_time << std::endl;
   }
   std::cout << "x_des" << X_des.tail(n).transpose() << std::endl;
+}
+
+void SRBDMPC::SaveValue(double _value, std::string _name, bool b_param) {
+  std::string file_name;
+  CleaningFile(_name, file_name, b_param);
+  std::ofstream savefile(file_name.c_str(), std::ios::app);
+
+  savefile << _value << "\n";
+  savefile.flush();
+}
+void SRBDMPC::CleaningFile(std::string _file_name, std::string &_ret_file,
+                           bool b_param) {
+  if (b_param)
+    _ret_file += THIS_COM;
+  else
+    _ret_file += THIS_COM "experiment_data/";
+
+  _ret_file += _file_name;
+  _ret_file += ".txt";
+
+  // std::list<std::string>::iterator iter = std::find(
+  // gs_fileName_string.begin(), gs_fileName_string.end(), _file_name);
+  // if (gs_fileName_string.end() == iter) {
+  // gs_fileName_string.push_back(_file_name);
+  // remove(_ret_file.c_str());
+  //}
 }

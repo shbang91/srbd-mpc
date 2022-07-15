@@ -1,0 +1,743 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ARCHITECTURE_ID	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^#   define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^#  define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^#  define ARCHITECTURE_ID$/;"	d	file:
+ARCHITECTURE_ID	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define ARCHITECTURE_ID$/;"	d	file:
+BipedEndEffectorId	quadprog_imp/mpc/contact_schedule.hpp	/^enum class BipedEndEffectorId { LeftFoot = 0, RightFoot = 1 };$/;"	c
+CMAKE_BINARY_DIR	quadprog_imp/build/Makefile	/^CMAKE_BINARY_DIR = \/Users\/seunghyeonbang\/Repository\/srbd-mpc\/quadprog_imp\/build$/;"	m
+CMAKE_BINARY_DIR	quadprog_imp/build/goldfarb/Makefile	/^CMAKE_BINARY_DIR = \/Users\/seunghyeonbang\/Repository\/srbd-mpc\/quadprog_imp\/build$/;"	m
+CMAKE_BINARY_DIR	quadprog_imp/build/mpc/Makefile	/^CMAKE_BINARY_DIR = \/Users\/seunghyeonbang\/Repository\/srbd-mpc\/quadprog_imp\/build$/;"	m
+CMAKE_COMMAND	quadprog_imp/build/Makefile	/^CMAKE_COMMAND = \/usr\/local\/Cellar\/cmake\/3.23.1\/bin\/cmake$/;"	m
+CMAKE_COMMAND	quadprog_imp/build/goldfarb/Makefile	/^CMAKE_COMMAND = \/usr\/local\/Cellar\/cmake\/3.23.1\/bin\/cmake$/;"	m
+CMAKE_COMMAND	quadprog_imp/build/mpc/Makefile	/^CMAKE_COMMAND = \/usr\/local\/Cellar\/cmake\/3.23.1\/bin\/cmake$/;"	m
+CMAKE_SOURCE_DIR	quadprog_imp/build/Makefile	/^CMAKE_SOURCE_DIR = \/Users\/seunghyeonbang\/Repository\/srbd-mpc\/quadprog_imp$/;"	m
+CMAKE_SOURCE_DIR	quadprog_imp/build/goldfarb/Makefile	/^CMAKE_SOURCE_DIR = \/Users\/seunghyeonbang\/Repository\/srbd-mpc\/quadprog_imp$/;"	m
+CMAKE_SOURCE_DIR	quadprog_imp/build/mpc/Makefile	/^CMAKE_SOURCE_DIR = \/Users\/seunghyeonbang\/Repository\/srbd-mpc\/quadprog_imp$/;"	m
+COMPILER_ID	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_ID /;"	d	file:
+COMPILER_ID	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_ID /;"	d	file:
+COMPILER_VERSION	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION /;"	d	file:
+COMPILER_VERSION	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION /;"	d	file:
+COMPILER_VERSION_INTERNAL	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL_STR	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_INTERNAL_STR /;"	d	file:
+COMPILER_VERSION_INTERNAL_STR	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_INTERNAL_STR /;"	d	file:
+COMPILER_VERSION_MAJOR	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MINOR	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_PATCH	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_TWEAK	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_TWEAK /;"	d	file:
+CXX_STD	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#      define CXX_STD /;"	d	file:
+CXX_STD	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#    define CXX_STD /;"	d	file:
+CXX_STD	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define CXX_STD /;"	d	file:
+C_VERSION	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^#  define C_VERSION /;"	d	file:
+C_VERSION	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^#  define C_VERSION$/;"	d	file:
+C_VERSION	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^# define C_VERSION /;"	d	file:
+CanonicalBaseGVect	quadprog_imp/goldfarb/Array.hh	/^CanonicalBaseGVect<T>::CanonicalBaseGVect(unsigned int i, unsigned int n)$/;"	f	class:GolDIdnani::CanonicalBaseGVect
+CanonicalBaseGVect	quadprog_imp/goldfarb/Array.hh	/^template <typename T> class CanonicalBaseGVect : public GVect<T> {$/;"	c	namespace:GolDIdnani
+CleaningFile	quadprog_imp/mpc/srbd_mpc.cpp	/^void SRBDMPC::CleaningFile(std::string _file_name, std::string &_ret_file,$/;"	f	class:SRBDMPC
+ContactSchedule	hpipm_imp/include/srbd-mpc/contact_schedule.hpp	/^class ContactSchedule {$/;"	c	namespace:srbdmpc
+ContactSchedule	hpipm_imp/src/contact_schedule.cpp	/^ContactSchedule::ContactSchedule(const double T, const int N) $/;"	f	class:srbdmpc::ContactSchedule
+ContactSchedule	quadprog_imp/mpc/contact_schedule.cpp	/^ContactSchedule::ContactSchedule(const double T, const int N,$/;"	f	class:ContactSchedule
+ContactSchedule	quadprog_imp/mpc/contact_schedule.hpp	/^class ContactSchedule {$/;"	c	class:BipedEndEffectorId::QuadrupedEndEffectorId
+ContactScheduleTest	hpipm_imp/test/contact_schedule_test.cpp	/^class ContactScheduleTest : public ::testing::Test {$/;"	c	namespace:srbdmpc	file:
+CostFunction	hpipm_imp/include/srbd-mpc/cost_function.hpp	/^class CostFunction {$/;"	c	namespace:srbdmpc
+CostFunction	hpipm_imp/src/cost_function.cpp	/^CostFunction::CostFunction(const double dt, const Matrix6d& Qqq, $/;"	f	class:srbdmpc::CostFunction
+CostFunctionTest	hpipm_imp/test/cost_function_test.cpp	/^class CostFunctionTest : public ::testing::Test {$/;"	c	namespace:srbdmpc	file:
+DEC	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^#define DEC(/;"	d	file:
+DEC	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define DEC(/;"	d	file:
+DIAG	quadprog_imp/goldfarb/Array.hh	/^enum MType { DIAG };$/;"	e	enum:MType
+Dc1	quadprog_imp/mpc/srbd_mpc.hpp	/^  Eigen::MatrixXd Dc1;    \/\/ Custom smoothing for the entire horizon$/;"	m	class:SRBDMPC
+EQUALS	quadprog_imp/build/Makefile	/^EQUALS = =$/;"	m
+EQUALS	quadprog_imp/build/goldfarb/Makefile	/^EQUALS = =$/;"	m
+EQUALS	quadprog_imp/build/mpc/Makefile	/^EQUALS = =$/;"	m
+F_out	quadprog_imp/mpc/srbd_mpc.hpp	/^  Eigen::VectorXd F_out;  \/\/ dimension: (n_Fr*horizon) forces to exert over the$/;"	m	class:SRBDMPC
+FrictionCone	hpipm_imp/include/srbd-mpc/friction_cone.hpp	/^class FrictionCone {$/;"	c	namespace:srbdmpc
+FrictionCone	hpipm_imp/src/friction_cone.cpp	/^FrictionCone::FrictionCone()$/;"	f	class:srbdmpc::FrictionCone
+FrictionCone	hpipm_imp/src/friction_cone.cpp	/^FrictionCone::FrictionCone(const double mu, const double fzmin, const double fzmax)$/;"	f	class:srbdmpc::FrictionCone
+FrictionConeTest	hpipm_imp/test/friction_cone_test.cpp	/^class FrictionConeTest : public ::testing::Test {$/;"	c	namespace:srbdmpc	file:
+GMatr	quadprog_imp/goldfarb/Array.hh	/^GMatr<T>::GMatr(MType t, const GVect<T> &a, const T &o, unsigned int n,$/;"	f	class:GolDIdnani::GMatr
+GMatr	quadprog_imp/goldfarb/Array.hh	/^GMatr<T>::GMatr(MType t, const T &a, const T &o, unsigned int n, unsigned int m)$/;"	f	class:GolDIdnani::GMatr
+GMatr	quadprog_imp/goldfarb/Array.hh	/^GMatr<T>::GMatr(const T &a, unsigned int n, unsigned int m) : v(new T *[n]) {$/;"	f	class:GolDIdnani::GMatr
+GMatr	quadprog_imp/goldfarb/Array.hh	/^GMatr<T>::GMatr(const T *a, unsigned int n, unsigned int m) : v(new T *[n]) {$/;"	f	class:GolDIdnani::GMatr
+GMatr	quadprog_imp/goldfarb/Array.hh	/^GMatr<T>::GMatr(unsigned int n, unsigned int m) : v(new T *[n]) {$/;"	f	class:GolDIdnani::GMatr
+GMatr	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GMatr<T>::GMatr() : n(0), m(0), v(0) {}$/;"	f	class:GolDIdnani::GMatr
+GMatr	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GMatr<T>::GMatr(const GMatr<T> &rhs) : v(new T *[rhs.n]) {$/;"	f	class:GolDIdnani::GMatr
+GMatr	quadprog_imp/goldfarb/Array.hh	/^template <typename T> class GMatr {$/;"	c	namespace:GolDIdnani
+GVect	quadprog_imp/goldfarb/Array.hh	/^GVect<T>::GVect(const T &a, const unsigned int n) : v(new T[n]) {$/;"	f	class:GolDIdnani::GVect
+GVect	quadprog_imp/goldfarb/Array.hh	/^GVect<T>::GVect(const T *a, const unsigned int n) : v(new T[n]) {$/;"	f	class:GolDIdnani::GVect
+GVect	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GVect<T>::GVect() : n(0), v(0) {}$/;"	f	class:GolDIdnani::GVect
+GVect	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GVect<T>::GVect(const GVect<T> &rhs) : v(new T[rhs.n]) {$/;"	f	class:GolDIdnani::GVect
+GVect	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GVect<T>::GVect(const unsigned int n) : v(new T[n]) {$/;"	f	class:GolDIdnani::GVect
+GVect	quadprog_imp/goldfarb/Array.hh	/^template <typename T> class GVect {$/;"	c	namespace:GolDIdnani
+GaitCommand	hpipm_imp/include/srbd-mpc/gait_command.hpp	/^struct GaitCommand {$/;"	s	namespace:srbdmpc
+GaitCycle	quadprog_imp/mpc/gait_cycle.cpp	/^GaitCycle::GaitCycle() {$/;"	f	class:GaitCycle
+GaitCycle	quadprog_imp/mpc/gait_cycle.cpp	/^GaitCycle::GaitCycle(const double swing_time_in,$/;"	f	class:GaitCycle
+GaitCycle	quadprog_imp/mpc/gait_cycle.hpp	/^class GaitCycle {$/;"	c
+GolDIdnani	quadprog_imp/goldfarb/Array.hh	/^namespace GolDIdnani {$/;"	n
+HEX	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^#define HEX(/;"	d	file:
+HEX	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define HEX(/;"	d	file:
+H_CONVEX_MPC	quadprog_imp/mpc/srbd_mpc.hpp	/^#define H_CONVEX_MPC$/;"	d
+H_GAIT_CYCLE	quadprog_imp/mpc/gait_cycle.hpp	/^#define H_GAIT_CYCLE$/;"	d
+ID_VOID_MAIN	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^# define ID_VOID_MAIN$/;"	d	file:
+I_global_	hpipm_imp/include/srbd-mpc/state_equation.hpp	/^  Matrix3d R_, I_local_, I_global_, I_global_inv_;$/;"	m	class:srbdmpc::StateEquation
+I_global_inv_	hpipm_imp/include/srbd-mpc/state_equation.hpp	/^  Matrix3d R_, I_local_, I_global_, I_global_inv_;$/;"	m	class:srbdmpc::StateEquation
+I_inv_r_skew_	hpipm_imp/include/srbd-mpc/state_equation.hpp	/^  aligned_vector<Matrix3d> I_inv_r_skew_;$/;"	m	class:srbdmpc::StateEquation
+I_local_	hpipm_imp/include/srbd-mpc/state_equation.hpp	/^  Matrix3d R_, I_local_, I_global_, I_global_inv_;$/;"	m	class:srbdmpc::StateEquation
+I_robot	quadprog_imp/mpc/srbd_mpc.hpp	/^  Eigen::MatrixXd I_robot; \/\/ Robot inertia$/;"	m	class:SRBDMPC
+Jqdiff_	hpipm_imp/include/srbd-mpc/cost_function.hpp	/^  Matrix6d Jqdiff_, JtQqq_;$/;"	m	class:srbdmpc::CostFunction
+JtQqq_	hpipm_imp/include/srbd-mpc/cost_function.hpp	/^  Matrix6d Jqdiff_, JtQqq_;$/;"	m	class:srbdmpc::CostFunction
+LeftFoot	quadprog_imp/mpc/contact_schedule.hpp	/^enum class BipedEndEffectorId { LeftFoot = 0, RightFoot = 1 };$/;"	m	class:BipedEndEffectorId
+LeftFrontFoot	quadprog_imp/mpc/contact_schedule.hpp	/^  LeftFrontFoot = 0,$/;"	m	class:BipedEndEffectorId::QuadrupedEndEffectorId
+LeftRearFoot	quadprog_imp/mpc/contact_schedule.hpp	/^  LeftRearFoot = 3$/;"	m	class:BipedEndEffectorId::QuadrupedEndEffectorId
+MPC	hpipm_imp/include/srbd-mpc/mpc.hpp	/^class MPC {$/;"	c	namespace:srbdmpc
+MPC	hpipm_imp/src/mpc.cpp	/^MPC::MPC(const StateEquation& state_equation, const CostFunction& cost_function, $/;"	f	class:srbdmpc::MPC
+MPCSolution	hpipm_imp/include/srbd-mpc/mpc_solution.hpp	/^class MPCSolution {$/;"	c	namespace:srbdmpc
+MPCTest	hpipm_imp/test/mpc_test.cpp	/^class MPCTest : public ::testing::Test {$/;"	c	namespace:srbdmpc	file:
+MPC_TIME_ALL	quadprog_imp/mpc/srbd_mpc.hpp	/^#define MPC_TIME_ALL$/;"	d
+MType	quadprog_imp/goldfarb/Array.hh	/^enum MType { DIAG };$/;"	g
+N	hpipm_imp/include/srbd-mpc/contact_schedule.hpp	/^  int N() const {$/;"	f	class:srbdmpc::ContactSchedule
+N	hpipm_imp/test/contact_schedule_test.cpp	/^  int N;$/;"	m	class:srbdmpc::ContactScheduleTest	file:
+N	hpipm_imp/test/cost_function_test.cpp	/^  int N;$/;"	m	class:srbdmpc::CostFunctionTest	file:
+N	hpipm_imp/test/mpc_test.cpp	/^  int N;$/;"	m	class:srbdmpc::MPCTest	file:
+N	quadprog_imp/mpc/contact_schedule.hpp	/^  int N() const { return N_; }$/;"	f	class:BipedEndEffectorId::QuadrupedEndEffectorId::ContactSchedule
+N_	hpipm_imp/include/srbd-mpc/contact_schedule.hpp	/^  int N_;$/;"	m	class:srbdmpc::ContactSchedule
+N_	hpipm_imp/include/srbd-mpc/state_equation.hpp	/^  int N_;$/;"	m	class:srbdmpc::StateEquation
+N_	quadprog_imp/mpc/contact_schedule.hpp	/^  int N_;                    \/\/ number of node$/;"	m	class:BipedEndEffectorId::QuadrupedEndEffectorId::ContactSchedule
+PLATFORM_ID	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^#  define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^#  define PLATFORM_ID$/;"	d	file:
+PLATFORM_ID	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^# define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^# define PLATFORM_ID$/;"	d	file:
+PLATFORM_ID	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define PLATFORM_ID$/;"	d	file:
+PLATFORM_ID	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define PLATFORM_ID$/;"	d	file:
+QPData	hpipm_imp/include/srbd-mpc/qp_data.hpp	/^struct QPData {$/;"	s	namespace:srbdmpc
+QPSolver	hpipm_imp/include/srbd-mpc/qp_solver.hpp	/^class QPSolver {$/;"	c	namespace:srbdmpc
+Qqq	hpipm_imp/test/cost_function_test.cpp	/^  Matrix6d Qqq, Qvv;$/;"	m	class:srbdmpc::CostFunctionTest	file:
+Qqq	hpipm_imp/test/mpc_test.cpp	/^  Eigen::MatrixXd Qqq, Qvv, Quu;$/;"	m	class:srbdmpc::MPCTest	file:
+Qqq_	hpipm_imp/include/srbd-mpc/cost_function.hpp	/^  Matrix6d Qqq_, Qvv_;$/;"	m	class:srbdmpc::CostFunction
+QuadrupedEndEffectorId	quadprog_imp/mpc/contact_schedule.hpp	/^enum class QuadrupedEndEffectorId {$/;"	c	class:BipedEndEffectorId
+Quu	hpipm_imp/test/cost_function_test.cpp	/^  Matrix3d Quu;$/;"	m	class:srbdmpc::CostFunctionTest	file:
+Quu	hpipm_imp/test/mpc_test.cpp	/^  Eigen::MatrixXd Qqq, Qvv, Quu;$/;"	m	class:srbdmpc::MPCTest	file:
+Quu_	hpipm_imp/include/srbd-mpc/cost_function.hpp	/^  Matrix12d Quu_;$/;"	m	class:srbdmpc::CostFunction
+Qvv	hpipm_imp/test/cost_function_test.cpp	/^  Matrix6d Qqq, Qvv;$/;"	m	class:srbdmpc::CostFunctionTest	file:
+Qvv	hpipm_imp/test/mpc_test.cpp	/^  Eigen::MatrixXd Qqq, Qvv, Quu;$/;"	m	class:srbdmpc::MPCTest	file:
+Qvv_	hpipm_imp/include/srbd-mpc/cost_function.hpp	/^  Matrix6d Qqq_, Qvv_;$/;"	m	class:srbdmpc::CostFunction
+R	hpipm_imp/include/srbd-mpc/mpc_solution.hpp	/^  const aligned_vector<Matrix3d>& R() const { return R_; }$/;"	f	class:srbdmpc::MPCSolution
+R	hpipm_imp/include/srbd-mpc/robot_state.hpp	/^  const Matrix3d& R() const {$/;"	f	class:srbdmpc::RobotState
+REACTION_FORCE_SCHEDULE_H	quadprog_imp/mpc/reaction_force_schedule.hpp	/^#define REACTION_FORCE_SCHEDULE_H$/;"	d
+RM	quadprog_imp/build/Makefile	/^RM = \/usr\/local\/Cellar\/cmake\/3.23.1\/bin\/cmake -E rm -f$/;"	m
+RM	quadprog_imp/build/goldfarb/Makefile	/^RM = \/usr\/local\/Cellar\/cmake\/3.23.1\/bin\/cmake -E rm -f$/;"	m
+RM	quadprog_imp/build/mpc/Makefile	/^RM = \/usr\/local\/Cellar\/cmake\/3.23.1\/bin\/cmake -E rm -f$/;"	m
+R_	hpipm_imp/include/srbd-mpc/mpc_solution.hpp	/^  aligned_vector<Matrix3d> R_;$/;"	m	class:srbdmpc::MPCSolution
+R_	hpipm_imp/include/srbd-mpc/robot_state.hpp	/^  Matrix3d R_;$/;"	m	class:srbdmpc::RobotState
+R_	hpipm_imp/include/srbd-mpc/state_equation.hpp	/^  Matrix3d R_, I_local_, I_global_, I_global_inv_;$/;"	m	class:srbdmpc::StateEquation
+R_pitch	quadprog_imp/mpc/srbd_mpc.cpp	/^Eigen::MatrixXd SRBDMPC::R_pitch(const double &theta) {$/;"	f	class:SRBDMPC
+R_roll	quadprog_imp/mpc/srbd_mpc.cpp	/^Eigen::MatrixXd SRBDMPC::R_roll(const double &phi) {$/;"	f	class:SRBDMPC
+R_yaw	quadprog_imp/mpc/srbd_mpc.cpp	/^Eigen::MatrixXd SRBDMPC::R_yaw(const double &psi) {$/;"	f	class:SRBDMPC
+ReactionForceSchedule	quadprog_imp/mpc/reaction_force_schedule.cpp	/^ReactionForceSchedule::ReactionForceSchedule() {}$/;"	f	class:ReactionForceSchedule
+ReactionForceSchedule	quadprog_imp/mpc/reaction_force_schedule.hpp	/^class ReactionForceSchedule {$/;"	c
+RightFoot	quadprog_imp/mpc/contact_schedule.hpp	/^enum class BipedEndEffectorId { LeftFoot = 0, RightFoot = 1 };$/;"	m	class:BipedEndEffectorId
+RightFrontFoot	quadprog_imp/mpc/contact_schedule.hpp	/^  RightFrontFoot = 1,$/;"	m	class:BipedEndEffectorId::QuadrupedEndEffectorId
+RightRearFoot	quadprog_imp/mpc/contact_schedule.hpp	/^  RightRearFoot = 2,$/;"	m	class:BipedEndEffectorId::QuadrupedEndEffectorId
+RobotState	hpipm_imp/include/srbd-mpc/robot_state.hpp	/^class RobotState {$/;"	c	namespace:srbdmpc
+RobotState	hpipm_imp/src/robot_state.cpp	/^RobotState::RobotState(const std::string& urdf, $/;"	f	class:srbdmpc::RobotState
+RobotStateTest	hpipm_imp/test/robot_state_test.cpp	/^class RobotStateTest : public ::testing::Test {$/;"	c	namespace:srbdmpc	file:
+SHELL	quadprog_imp/build/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	quadprog_imp/build/goldfarb/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	quadprog_imp/build/mpc/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SIMULATE_ID	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_ID /;"	d	file:
+SIMULATE_ID	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^# define SIMULATE_ID /;"	d	file:
+SIMULATE_ID	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_ID /;"	d	file:
+SIMULATE_ID	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define SIMULATE_ID /;"	d	file:
+SIMULATE_VERSION_MAJOR	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MAJOR	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^# define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MAJOR	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MAJOR	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MINOR	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_MINOR	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^# define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_MINOR	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_MINOR	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_PATCH	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^#   define SIMULATE_VERSION_PATCH /;"	d	file:
+SIMULATE_VERSION_PATCH	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_PATCH /;"	d	file:
+SIMULATE_VERSION_PATCH	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^# define SIMULATE_VERSION_PATCH /;"	d	file:
+SIMULATE_VERSION_PATCH	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define SIMULATE_VERSION_PATCH /;"	d	file:
+SIMULATE_VERSION_PATCH	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_PATCH /;"	d	file:
+SIMULATE_VERSION_PATCH	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define SIMULATE_VERSION_PATCH /;"	d	file:
+SRBDMPC	quadprog_imp/mpc/srbd_mpc.cpp	/^SRBDMPC::SRBDMPC() {$/;"	f	class:SRBDMPC
+SRBDMPC	quadprog_imp/mpc/srbd_mpc.hpp	/^class SRBDMPC {$/;"	c
+SRBD_MPC_CONTACT_SCHEDULE_HPP_	hpipm_imp/include/srbd-mpc/contact_schedule.hpp	/^#define SRBD_MPC_CONTACT_SCHEDULE_HPP_$/;"	d
+SRBD_MPC_COST_FUNCTION_HPP_	hpipm_imp/include/srbd-mpc/cost_function.hpp	/^#define SRBD_MPC_COST_FUNCTION_HPP_$/;"	d
+SRBD_MPC_FRICTION_CONE_HPP_	hpipm_imp/include/srbd-mpc/friction_cone.hpp	/^#define SRBD_MPC_FRICTION_CONE_HPP_$/;"	d
+SRBD_MPC_GAIT_COMMAND_HPP_	hpipm_imp/include/srbd-mpc/gait_command.hpp	/^#define SRBD_MPC_GAIT_COMMAND_HPP_$/;"	d
+SRBD_MPC_MPC_HPP_	hpipm_imp/include/srbd-mpc/mpc.hpp	/^#define SRBD_MPC_MPC_HPP_$/;"	d
+SRBD_MPC_MPC_SOLUTION_HPP_	hpipm_imp/include/srbd-mpc/mpc_solution.hpp	/^#define SRBD_MPC_MPC_SOLUTION_HPP_$/;"	d
+SRBD_MPC_QP_DATA_HPP_	hpipm_imp/include/srbd-mpc/qp_data.hpp	/^#define SRBD_MPC_QP_DATA_HPP_$/;"	d
+SRBD_MPC_QP_SOLVER_HPP_	hpipm_imp/include/srbd-mpc/qp_solver.hpp	/^#define SRBD_MPC_QP_SOLVER_HPP_$/;"	d
+SRBD_MPC_ROBOT_STATE_HPP_	hpipm_imp/include/srbd-mpc/robot_state.hpp	/^#define SRBD_MPC_ROBOT_STATE_HPP_$/;"	d
+SRBD_MPC_SINGLE_RIGID_BODY_HPP_	hpipm_imp/include/srbd-mpc/single_rigid_body.hpp	/^#define SRBD_MPC_SINGLE_RIGID_BODY_HPP_$/;"	d
+SRBD_MPC_SOLVER_OPTIONS_HPP_	hpipm_imp/include/srbd-mpc/solver_options.hpp	/^#define SRBD_MPC_SOLVER_OPTIONS_HPP_$/;"	d
+SRBD_MPC_STATE_EQUATION_HPP_	hpipm_imp/include/srbd-mpc/state_equation.hpp	/^#define SRBD_MPC_STATE_EQUATION_HPP_$/;"	d
+SRBD_MPC_TYPES_HPP_	hpipm_imp/include/srbd-mpc/types.hpp	/^#define SRBD_MPC_TYPES_HPP_$/;"	d
+STRINGIFY	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^#define STRINGIFY(/;"	d	file:
+STRINGIFY	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define STRINGIFY(/;"	d	file:
+STRINGIFY_HELPER	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^#define STRINGIFY_HELPER(/;"	d	file:
+STRINGIFY_HELPER	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define STRINGIFY_HELPER(/;"	d	file:
+SaveValue	quadprog_imp/mpc/srbd_mpc.cpp	/^void SRBDMPC::SaveValue(double _value, std::string _name, bool b_param) {$/;"	f	class:SRBDMPC
+SetUp	hpipm_imp/test/contact_schedule_test.cpp	/^  virtual void SetUp() {$/;"	f	class:srbdmpc::ContactScheduleTest
+SetUp	hpipm_imp/test/cost_function_test.cpp	/^  virtual void SetUp() {$/;"	f	class:srbdmpc::CostFunctionTest
+SetUp	hpipm_imp/test/friction_cone_test.cpp	/^  virtual void SetUp() {$/;"	f	class:srbdmpc::FrictionConeTest
+SetUp	hpipm_imp/test/mpc_test.cpp	/^  virtual void SetUp() {$/;"	f	class:srbdmpc::MPCTest
+SetUp	hpipm_imp/test/robot_state_test.cpp	/^  virtual void SetUp() {$/;"	f	class:srbdmpc::RobotStateTest
+SetUp	hpipm_imp/test/single_rigid_body_test.cpp	/^  virtual void SetUp() {$/;"	f	class:srbdmpc::SingleRigidBodyTest
+SingleRigidBody	hpipm_imp/include/srbd-mpc/single_rigid_body.hpp	/^class SingleRigidBody {$/;"	c	namespace:srbdmpc
+SingleRigidBody	hpipm_imp/src/single_rigid_body.cpp	/^SingleRigidBody::SingleRigidBody() $/;"	f	class:srbdmpc::SingleRigidBody
+SingleRigidBodyTest	hpipm_imp/test/single_rigid_body_test.cpp	/^class SingleRigidBodyTest : public ::testing::Test {$/;"	c	namespace:srbdmpc	file:
+SolverOptions	hpipm_imp/include/srbd-mpc/solver_options.hpp	/^struct SolverOptions {$/;"	s	namespace:srbdmpc
+StateEquation	hpipm_imp/include/srbd-mpc/state_equation.hpp	/^class StateEquation {$/;"	c	namespace:srbdmpc
+StateEquation	hpipm_imp/src/state_equation.cpp	/^StateEquation::StateEquation(const double dt, const double m, const Matrix3d& I, $/;"	f	class:srbdmpc::StateEquation
+T	hpipm_imp/include/srbd-mpc/contact_schedule.hpp	/^  double T() const {$/;"	f	class:srbdmpc::ContactSchedule
+T	hpipm_imp/test/contact_schedule_test.cpp	/^  double T, dt;$/;"	m	class:srbdmpc::ContactScheduleTest	file:
+T	hpipm_imp/test/cost_function_test.cpp	/^  double T, dt;$/;"	m	class:srbdmpc::CostFunctionTest	file:
+T	hpipm_imp/test/mpc_test.cpp	/^  double T;$/;"	m	class:srbdmpc::MPCTest	file:
+T	quadprog_imp/mpc/contact_schedule.hpp	/^  double T() const { return T_; }$/;"	f	class:BipedEndEffectorId::QuadrupedEndEffectorId::ContactSchedule
+TEST_F	hpipm_imp/test/contact_schedule_test.cpp	/^TEST_F(ContactScheduleTest, testContactSchedule) {$/;"	f	namespace:srbdmpc
+TEST_F	hpipm_imp/test/cost_function_test.cpp	/^TEST_F(CostFunctionTest, testCostFunction) {$/;"	f	namespace:srbdmpc
+TEST_F	hpipm_imp/test/friction_cone_test.cpp	/^TEST_F(FrictionConeTest, testFrictionCone) {$/;"	f	namespace:srbdmpc
+TEST_F	hpipm_imp/test/mpc_test.cpp	/^TEST_F(MPCTest, testMPC) {$/;"	f	namespace:srbdmpc
+TEST_F	hpipm_imp/test/robot_state_test.cpp	/^TEST_F(RobotStateTest, testRobotState) {$/;"	f	namespace:srbdmpc
+TEST_F	hpipm_imp/test/single_rigid_body_test.cpp	/^TEST_F(SingleRigidBodyTest, testSingleRigidBody) {$/;"	f	namespace:srbdmpc
+THIS_COM	quadprog_imp/configuration.hpp	/^#define THIS_COM /;"	d
+T_	hpipm_imp/include/srbd-mpc/contact_schedule.hpp	/^  double T_, dt_;$/;"	m	class:srbdmpc::ContactSchedule
+T_	quadprog_imp/mpc/contact_schedule.hpp	/^  double T_;                 \/\/ time horizon$/;"	m	class:BipedEndEffectorId::QuadrupedEndEffectorId::ContactSchedule
+TearDown	hpipm_imp/test/contact_schedule_test.cpp	/^  virtual void TearDown() {}$/;"	f	class:srbdmpc::ContactScheduleTest
+TearDown	hpipm_imp/test/cost_function_test.cpp	/^  virtual void TearDown() {$/;"	f	class:srbdmpc::CostFunctionTest
+TearDown	hpipm_imp/test/friction_cone_test.cpp	/^  virtual void TearDown() {$/;"	f	class:srbdmpc::FrictionConeTest
+TearDown	hpipm_imp/test/mpc_test.cpp	/^  virtual void TearDown() {$/;"	f	class:srbdmpc::MPCTest
+TearDown	hpipm_imp/test/robot_state_test.cpp	/^  virtual void TearDown() {$/;"	f	class:srbdmpc::RobotStateTest
+TearDown	hpipm_imp/test/single_rigid_body_test.cpp	/^  virtual void TearDown() {$/;"	f	class:srbdmpc::SingleRigidBodyTest
+X_pred	quadprog_imp/mpc/srbd_mpc.hpp	/^  Eigen::VectorXd X_pred; \/\/ dimension: (13*horizon) state prediction over the$/;"	m	class:SRBDMPC
+_ARRAY_HH	quadprog_imp/goldfarb/Array.hh	/^#define _ARRAY_HH$/;"	d
+_QUADPROGPP	quadprog_imp/goldfarb/QuadProg++.hh	/^#define _QUADPROGPP$/;"	d
+__has_include	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^#  define __has_include(/;"	d	file:
+__has_include	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define __has_include(/;"	d	file:
+abs	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline GVect<T> abs(const GVect<T> &v) {$/;"	f	namespace:GolDIdnani
+add	quadprog_imp/mpc/contact_schedule.cpp	/^void ContactSchedule::add(const double t,$/;"	f	class:ContactSchedule
+add_constraint	quadprog_imp/goldfarb/QuadProg++.cc	/^bool add_constraint(GMatr<double> &R, GMatr<double> &J, GVect<double> &d,$/;"	f
+all_mean	quadprog_imp/goldfarb/Array.hh	/^template <typename T> T all_mean(const GMatr<T> &m) {$/;"	f	namespace:GolDIdnani
+all_prod	quadprog_imp/goldfarb/Array.hh	/^template <typename T> T all_prod(const GMatr<T> &m) {$/;"	f	namespace:GolDIdnani
+all_sum	quadprog_imp/goldfarb/Array.hh	/^template <typename T> T all_sum(const GMatr<T> &m) {$/;"	f	namespace:GolDIdnani
+assemble_vec_to_matrix	quadprog_imp/mpc/srbd_mpc.cpp	/^void SRBDMPC::assemble_vec_to_matrix(const int &n, const int &m,$/;"	f	class:SRBDMPC
+b_max_rf_z_computed_	quadprog_imp/mpc/contact_schedule.hpp	/^  bool b_max_rf_z_computed_; \/\/ flag for computing max_rf_z$/;"	m	class:BipedEndEffectorId::QuadrupedEndEffectorId::ContactSchedule
+backward_elimination	quadprog_imp/goldfarb/Array.hh	/^GVect<T> backward_elimination(const GMatr<T> &U, const GVect<T> y) {$/;"	f	namespace:GolDIdnani
+backward_elimination	quadprog_imp/goldfarb/Array.hh	/^void backward_elimination(const GMatr<T> &U, GVect<T> &x, const GVect<T> &y) {$/;"	f	namespace:GolDIdnani
+backward_elimination	quadprog_imp/goldfarb/QuadProg++.cc	/^inline void backward_elimination(const GMatr<double> &U, GVect<double> &x,$/;"	f
+base_pose_	hpipm_imp/include/srbd-mpc/cost_function.hpp	/^  Vector7d base_pose_;$/;"	m	class:srbdmpc::CostFunction
+base_pose_ref_	hpipm_imp/include/srbd-mpc/cost_function.hpp	/^  aligned_vector<Vector7d> base_pose_ref_;$/;"	m	class:srbdmpc::CostFunction
+checkSize	hpipm_imp/src/qp_data.cpp	/^bool QPData::checkSize() const {$/;"	f	class:srbdmpc::QPData
+cholesky	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GMatr<T> cholesky(const GMatr<T> A) {$/;"	f	namespace:GolDIdnani
+cholesky	quadprog_imp/goldfarb/Array.hh	/^template <typename T> void cholesky(const GMatr<T> A, GMatr<T> &LL) {$/;"	f	namespace:GolDIdnani
+cholesky_decomposition	quadprog_imp/goldfarb/QuadProg++.cc	/^void cholesky_decomposition(GMatr<double> &A) {$/;"	f
+cholesky_solve	quadprog_imp/goldfarb/Array.hh	/^GVect<T> cholesky_solve(const GMatr<T> &LL, const GVect<T> &b) {$/;"	f	namespace:GolDIdnani
+cholesky_solve	quadprog_imp/goldfarb/Array.hh	/^void cholesky_solve(const GMatr<T> &LL, GVect<T> &x, const GVect<T> &b) {$/;"	f	namespace:GolDIdnani
+cholesky_solve	quadprog_imp/goldfarb/QuadProg++.cc	/^void cholesky_solve(const GMatr<double> &L, GVect<double> &x,$/;"	f
+com	hpipm_imp/include/srbd-mpc/robot_state.hpp	/^  const Vector3d& com() const {$/;"	f	class:srbdmpc::RobotState
+computeMaxRfZ_	quadprog_imp/mpc/contact_schedule.cpp	/^void ContactSchedule::computeMaxRfZ_() {$/;"	f	class:ContactSchedule
+computeSmoothingCoeff_	quadprog_imp/mpc/contact_schedule.cpp	/^double ContactSchedule::computeSmoothingCoeff_(const int foot_idx,$/;"	f	class:ContactSchedule
+computeTime_	quadprog_imp/mpc/contact_schedule.cpp	/^double ContactSchedule::computeTime_(const int node_idx) {$/;"	f	class:ContactSchedule
+compute_d	quadprog_imp/goldfarb/QuadProg++.cc	/^inline void compute_d(GVect<double> &d, const GMatr<double> &J,$/;"	f
+cone_	hpipm_imp/include/srbd-mpc/friction_cone.hpp	/^  MatrixXd cone_;$/;"	m	class:srbdmpc::FrictionCone
+const	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^# define const$/;"	d	file:
+cont_time_state_space	quadprog_imp/mpc/srbd_mpc.cpp	/^void SRBDMPC::cont_time_state_space(const Eigen::VectorXd &x_current,$/;"	f	class:SRBDMPC
+contact_pos_	quadprog_imp/mpc/contact_schedule.hpp	/^  std::vector<std::vector<Eigen::Vector3d>> contact_pos_; \/\/ phase -> ee$/;"	m	class:BipedEndEffectorId::QuadrupedEndEffectorId::ContactSchedule
+control_alpha_	quadprog_imp/mpc/srbd_mpc.hpp	/^  double control_alpha_; \/\/ Regularization term on the controls$/;"	m	class:SRBDMPC
+convert_r_feet_to_com_frame	quadprog_imp/mpc/srbd_mpc.cpp	/^void SRBDMPC::convert_r_feet_to_com_frame(const Eigen::VectorXd &p_com,$/;"	f	class:SRBDMPC
+cost_function_	hpipm_imp/include/srbd-mpc/mpc.hpp	/^  CostFunction cost_function_;$/;"	m	class:srbdmpc::MPC
+cost_vec	quadprog_imp/mpc/srbd_mpc.hpp	/^  Eigen::VectorXd cost_vec;$/;"	m	class:SRBDMPC
+countNumActiveContacts	hpipm_imp/src/contact_schedule.cpp	/^int countNumActiveContacts(const std::vector<bool>& is_contact_active) {$/;"	f	namespace:srbdmpc
+custom_smoothing_	quadprog_imp/mpc/srbd_mpc.hpp	/^  bool custom_smoothing_; \/\/ Enable user-speicified custom smoothing matrix$/;"	m	class:SRBDMPC
+dDifference_dq0	hpipm_imp/src/single_rigid_body.cpp	/^void SingleRigidBody::dDifference_dq0(const Vector7d& qf, const Vector7d& q0, $/;"	f	class:srbdmpc::SingleRigidBody
+dDifference_dqf	hpipm_imp/src/single_rigid_body.cpp	/^void SingleRigidBody::dDifference_dqf(const Vector7d& qf, const Vector7d& q0, $/;"	f	class:srbdmpc::SingleRigidBody
+data_	hpipm_imp/include/srbd-mpc/robot_state.hpp	/^  pinocchio::Data data_;$/;"	m	class:srbdmpc::RobotState
+data_	hpipm_imp/include/srbd-mpc/single_rigid_body.hpp	/^  pinocchio::Data data_;$/;"	m	class:srbdmpc::SingleRigidBody
+default_max_z_force_	quadprog_imp/mpc/reaction_force_schedule.hpp	/^  double default_max_z_force_ = 500;$/;"	m	class:ReactionForceSchedule
+delete_constraint	quadprog_imp/goldfarb/QuadProg++.cc	/^void delete_constraint(GMatr<double> &R, GMatr<double> &J, GVect<int> &A,$/;"	f
+delta_smooth_	quadprog_imp/mpc/srbd_mpc.hpp	/^  double delta_smooth_;  \/\/ Parameter to smoothen the reaction force results$/;"	m	class:SRBDMPC
+det	quadprog_imp/goldfarb/Array.hh	/^#define det /;"	d
+difference	hpipm_imp/src/single_rigid_body.cpp	/^void SingleRigidBody::difference(const Vector7d& qf, const Vector7d& q0, $/;"	f	class:srbdmpc::SingleRigidBody
+dim	hpipm_imp/include/srbd-mpc/qp_data.hpp	/^  hpipm::OcpQpDim dim;$/;"	m	struct:srbdmpc::QPData
+discrete_time_state_space	quadprog_imp/mpc/srbd_mpc.cpp	/^void SRBDMPC::discrete_time_state_space(const Eigen::MatrixXd &A,$/;"	f	class:SRBDMPC
+dist	quadprog_imp/goldfarb/Array.hh	/^template <typename T> T dist(const T &a, const T &b) {$/;"	f	namespace:GolDIdnani
+distance	quadprog_imp/goldfarb/QuadProg++.cc	/^inline double distance(double a, double b) {$/;"	f
+dot_prod	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GMatr<T> dot_prod(const GMatr<T> &a, const GMatr<T> &b) {$/;"	f	namespace:GolDIdnani
+dot_prod	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GMatr<T> dot_prod(const GMatr<T> &a, const GVect<T> &b) {$/;"	f	namespace:GolDIdnani
+dot_prod	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GMatr<T> dot_prod(const GVect<T> &a, const GMatr<T> &b) {$/;"	f	namespace:GolDIdnani
+dot_prod	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline T dot_prod(const GVect<T> &a, const GVect<T> &b) {$/;"	f	namespace:GolDIdnani
+dq_command_	hpipm_imp/include/srbd-mpc/cost_function.hpp	/^  Vector6d v_command_, dq_command_; $/;"	m	class:srbdmpc::CostFunction
+dt	hpipm_imp/include/srbd-mpc/contact_schedule.hpp	/^  double dt() const {$/;"	f	class:srbdmpc::ContactSchedule
+dt	hpipm_imp/test/contact_schedule_test.cpp	/^  double T, dt;$/;"	m	class:srbdmpc::ContactScheduleTest	file:
+dt	hpipm_imp/test/cost_function_test.cpp	/^  double T, dt;$/;"	m	class:srbdmpc::CostFunctionTest	file:
+dt	hpipm_imp/test/mpc_test.cpp	/^  double dt, mu, fzmin, fzmax;$/;"	m	class:srbdmpc::MPCTest	file:
+dt	quadprog_imp/mpc/contact_schedule.hpp	/^  double dt() const { return dt_; }$/;"	f	class:BipedEndEffectorId::QuadrupedEndEffectorId::ContactSchedule
+dt_	hpipm_imp/include/srbd-mpc/contact_schedule.hpp	/^  double T_, dt_;$/;"	m	class:srbdmpc::ContactSchedule
+dt_	hpipm_imp/include/srbd-mpc/cost_function.hpp	/^  double dt_;$/;"	m	class:srbdmpc::CostFunction
+dt_	hpipm_imp/include/srbd-mpc/state_equation.hpp	/^  double dt_, m_;$/;"	m	class:srbdmpc::StateEquation
+dt_	quadprog_imp/mpc/contact_schedule.hpp	/^  double dt_;                \/\/ timestep$/;"	m	class:BipedEndEffectorId::QuadrupedEndEffectorId::ContactSchedule
+e	quadprog_imp/goldfarb/Array.hh	/^  unsigned int e;$/;"	m	class:GolDIdnani::CanonicalBaseGVect
+enableCustomSmoothing	quadprog_imp/mpc/srbd_mpc.hpp	/^  void enableCustomSmoothing(const bool enable_custom_smoothing) {$/;"	f	class:SRBDMPC
+exp	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GMatr<T> exp(const GMatr<T> &m) {$/;"	f	namespace:GolDIdnani
+exp	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline GVect<T> exp(const GVect<T> &v) {$/;"	f	namespace:GolDIdnani
+extract	quadprog_imp/goldfarb/Array.hh	/^GMatr<T>::extract(const std::set<unsigned int> &r_indexes,$/;"	f	class:GolDIdnani::GMatr
+extract	quadprog_imp/goldfarb/Array.hh	/^inline GVect<T> GVect<T>::extract(const std::set<unsigned int> &indexes) const {$/;"	f	class:GolDIdnani::GVect
+extractColumn	quadprog_imp/goldfarb/Array.hh	/^inline GVect<T> GMatr<T>::extractColumn(const unsigned int j) const {$/;"	f	class:GolDIdnani::GMatr
+extractColumns	quadprog_imp/goldfarb/Array.hh	/^GMatr<T>::extractColumns(const std::set<unsigned int> &indexes) const {$/;"	f	class:GolDIdnani::GMatr
+extractDiag	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline GVect<T> GMatr<T>::extractDiag() const {$/;"	f	class:GolDIdnani::GMatr
+extractRow	quadprog_imp/goldfarb/Array.hh	/^inline GVect<T> GMatr<T>::extractRow(const unsigned int i) const {$/;"	f	class:GolDIdnani::GMatr
+extractRows	quadprog_imp/goldfarb/Array.hh	/^GMatr<T>::extractRows(const std::set<unsigned int> &indexes) const {$/;"	f	class:GolDIdnani::GMatr
+f	hpipm_imp/include/srbd-mpc/mpc_solution.hpp	/^  const aligned_vector<aligned_vector<Vector3d>>& f() const { return f_; }$/;"	f	class:srbdmpc::MPCSolution
+f_	hpipm_imp/include/srbd-mpc/mpc_solution.hpp	/^  aligned_vector<aligned_vector<Vector3d>> f_;$/;"	m	class:srbdmpc::MPCSolution
+f_prev	quadprog_imp/mpc/srbd_mpc.hpp	/^      f_prev; \/\/ Previous reaction force vector for the first horizon.$/;"	m	class:SRBDMPC
+feet	hpipm_imp/test/mpc_test.cpp	/^  std::vector<std::string> feet;$/;"	m	class:srbdmpc::MPCTest	file:
+feet	hpipm_imp/test/robot_state_test.cpp	/^  std::vector<std::string> feet;$/;"	m	class:srbdmpc::RobotStateTest	file:
+feet	hpipm_imp/test/single_rigid_body_test.cpp	/^  std::vector<std::string> feet;$/;"	m	class:srbdmpc::SingleRigidBodyTest	file:
+feet_	hpipm_imp/include/srbd-mpc/robot_state.hpp	/^  std::vector<int> feet_;$/;"	m	class:srbdmpc::RobotState
+fk_	hpipm_imp/include/srbd-mpc/robot_state.hpp	/^  aligned_vector<Vector3d> fk_;$/;"	m	class:srbdmpc::RobotState
+fk_skew_	hpipm_imp/include/srbd-mpc/robot_state.hpp	/^  aligned_vector<Matrix3d> fk_skew_;$/;"	m	class:srbdmpc::RobotState
+forward_elimination	quadprog_imp/goldfarb/Array.hh	/^GVect<T> forward_elimination(const GMatr<T> &L, const GVect<T> b) {$/;"	f	namespace:GolDIdnani
+forward_elimination	quadprog_imp/goldfarb/Array.hh	/^void forward_elimination(const GMatr<T> &L, GVect<T> &y, const GVect<T> b) {$/;"	f	namespace:GolDIdnani
+forward_elimination	quadprog_imp/goldfarb/QuadProg++.cc	/^inline void forward_elimination(const GMatr<double> &L, GVect<double> &y,$/;"	f
+friction_cone_	hpipm_imp/include/srbd-mpc/mpc.hpp	/^  FrictionCone friction_cone_;$/;"	m	class:srbdmpc::MPC
+fz_max	quadprog_imp/mpc/srbd_mpc.hpp	/^  double fz_max;         \/\/ maximum z reaction force for one force vector.$/;"	m	class:SRBDMPC
+fzmax	hpipm_imp/test/friction_cone_test.cpp	/^  double mu, fzmin, fzmax;$/;"	m	class:srbdmpc::FrictionConeTest	file:
+fzmax	hpipm_imp/test/mpc_test.cpp	/^  double dt, mu, fzmin, fzmax;$/;"	m	class:srbdmpc::MPCTest	file:
+fzmax_	hpipm_imp/include/srbd-mpc/friction_cone.hpp	/^  double mu_, fzmin_, fzmax_;$/;"	m	class:srbdmpc::FrictionCone
+fzmin	hpipm_imp/test/friction_cone_test.cpp	/^  double mu, fzmin, fzmax;$/;"	m	class:srbdmpc::FrictionConeTest	file:
+fzmin	hpipm_imp/test/mpc_test.cpp	/^  double dt, mu, fzmin, fzmax;$/;"	m	class:srbdmpc::MPCTest	file:
+fzmin_	hpipm_imp/include/srbd-mpc/friction_cone.hpp	/^  double mu_, fzmin_, fzmax_;$/;"	m	class:srbdmpc::FrictionCone
+g_	hpipm_imp/include/srbd-mpc/state_equation.hpp	/^  Vector3d g_;$/;"	m	class:srbdmpc::StateEquation
+gait_cycle_ptr	quadprog_imp/mpc/srbd_mpc.hpp	/^  std::shared_ptr<GaitCycle> gait_cycle_ptr; \/\/ pointer to the gait cycle object$/;"	m	class:SRBDMPC
+getComputedGroundForces	quadprog_imp/mpc/srbd_mpc.hpp	/^  Eigen::VectorXd getComputedGroundForces() { return latest_f_vec_out; }$/;"	f	class:SRBDMPC
+getContactState	quadprog_imp/mpc/gait_cycle.cpp	/^int GaitCycle::getContactState(int index) {$/;"	f	class:GaitCycle
+getContactStateGivenPhaseValue	quadprog_imp/mpc/gait_cycle.cpp	/^int GaitCycle::getContactStateGivenPhaseValue(const double phase_value) {$/;"	f	class:GaitCycle
+getDefaultMaxNormalForce	quadprog_imp/mpc/reaction_force_schedule.cpp	/^double ReactionForceSchedule::getDefaultMaxNormalForce() {$/;"	f	class:ReactionForceSchedule
+getFootPos	quadprog_imp/mpc/contact_schedule.hpp	/^  Eigen::Vector3d getFootPos(const int foot_idx, int node_idx) {$/;"	f	class:BipedEndEffectorId::QuadrupedEndEffectorId::ContactSchedule
+getForcesOverHorizon	quadprog_imp/mpc/srbd_mpc.hpp	/^  Eigen::VectorXd getForcesOverHorizon() { return F_out; }$/;"	f	class:SRBDMPC
+getGaitPhaseValue	quadprog_imp/mpc/gait_cycle.cpp	/^double GaitCycle::getGaitPhaseValue(const double start_time, const double time,$/;"	f	class:GaitCycle
+getLegKinematics	hpipm_imp/include/srbd-mpc/robot_state.hpp	/^  const Vector3d& getLegKinematics(const int i) const {$/;"	f	class:srbdmpc::RobotState
+getLegKinematicsSkew	hpipm_imp/include/srbd-mpc/robot_state.hpp	/^  const Matrix3d& getLegKinematicsSkew(const int i) const {$/;"	f	class:srbdmpc::RobotState
+getMatComputedGroundForces	quadprog_imp/mpc/srbd_mpc.cpp	/^Eigen::MatrixXd SRBDMPC::getMatComputedGroundForces() {$/;"	f	class:SRBDMPC
+getMaxNormalForce	quadprog_imp/mpc/reaction_force_schedule.cpp	/^double ReactionForceSchedule::getMaxNormalForce(int index, double time) {$/;"	f	class:ReactionForceSchedule
+getMaxRfZ	quadprog_imp/mpc/contact_schedule.hpp	/^  double getMaxRfZ(const int foot_idx, int node_idx) {$/;"	f	class:BipedEndEffectorId::QuadrupedEndEffectorId::ContactSchedule
+getSolution	hpipm_imp/include/srbd-mpc/mpc.hpp	/^  const MPCSolution& getSolution() const { return mpc_solution_; }$/;"	f	class:srbdmpc::MPC
+getStateVecDim	quadprog_imp/mpc/srbd_mpc.hpp	/^  int getStateVecDim() { return 13; }$/;"	f	class:SRBDMPC
+getTransitionVariable	quadprog_imp/mpc/reaction_force_schedule.cpp	/^double ReactionForceSchedule::getTransitionVariable(int index, double time) {$/;"	f	class:ReactionForceSchedule
+getXpredOverHorizon	quadprog_imp/mpc/srbd_mpc.hpp	/^  Eigen::VectorXd getXpredOverHorizon() { return X_pred; }$/;"	f	class:SRBDMPC
+get_constant_desired_x	quadprog_imp/mpc/srbd_mpc.cpp	/^void SRBDMPC::get_constant_desired_x(const Eigen::VectorXd &x_des,$/;"	f	class:SRBDMPC
+get_force_constraints	quadprog_imp/mpc/srbd_mpc.cpp	/^void SRBDMPC::get_force_constraints(const int &n_Fr, Eigen::MatrixXd &CMat,$/;"	f	class:SRBDMPC
+get_qp_constraints	quadprog_imp/mpc/srbd_mpc.cpp	/^void SRBDMPC::get_qp_constraints(const Eigen::MatrixXd &CMat,$/;"	f	class:SRBDMPC
+get_qp_costs	quadprog_imp/mpc/srbd_mpc.cpp	/^void SRBDMPC::get_qp_costs(const int &n, const int &m,$/;"	f	class:SRBDMPC
+getx0	quadprog_imp/mpc/srbd_mpc.cpp	/^Eigen::VectorXd SRBDMPC::getx0(const double roll, const double pitch,$/;"	f	class:SRBDMPC
+gravity_acceleration	quadprog_imp/mpc/srbd_mpc.hpp	/^  double gravity_acceleration;$/;"	m	class:SRBDMPC
+gs_fileName_string	quadprog_imp/mpc/srbd_mpc.hpp	/^  static std::list<std::string> gs_fileName_string; \/\/ global & static$/;"	m	class:SRBDMPC
+horizon	quadprog_imp/mpc/srbd_mpc.hpp	/^  int horizon;           \/\/ mpc horizon (number of steps);$/;"	m	class:SRBDMPC
+index_max	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline unsigned int index_max(const GVect<T> &v) {$/;"	f	namespace:GolDIdnani
+index_min	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline unsigned int index_min(const GVect<T> &v) {$/;"	f	namespace:GolDIdnani
+info_arch	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_compiler	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_cray	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_cray	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_language_extensions_default	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_extensions_default = "INFO" ":" "extensions_default["$/;"	v
+info_language_extensions_default	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_extensions_default = "INFO" ":" "extensions_default["$/;"	v
+info_language_standard_default	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_standard_default =$/;"	v
+info_language_standard_default	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_standard_default = "INFO" ":" "standard_default["$/;"	v
+info_platform	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_simulate	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate_version	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^char const info_simulate_version[] = {$/;"	v
+info_simulate_version	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v
+info_version	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^char const info_version[] = {$/;"	v
+info_version	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_version = "INFO" ":" "compiler_version[" COMPILER_VERSION "]";$/;"	v
+info_version	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v
+info_version	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_version = "INFO" ":" "compiler_version[" COMPILER_VERSION "]";$/;"	v
+info_version_internal	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^char const info_version_internal[] = {$/;"	v
+info_version_internal	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_version_internal = "INFO" ":" "compiler_version_internal[" COMPILER_VERSION_INTERNAL_STR "]";$/;"	v
+info_version_internal	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version_internal[] = {$/;"	v
+info_version_internal	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_version_internal = "INFO" ":" "compiler_version_internal[" COMPILER_VERSION_INTERNAL_STR "]";$/;"	v
+init	hpipm_imp/src/mpc.cpp	/^void MPC::init(const ContactSchedule& contact_schedule) {$/;"	f	class:srbdmpc::MPC
+init	hpipm_imp/src/mpc_solution.cpp	/^void MPCSolution::init(const ContactSchedule& contact_schedule) {$/;"	f	class:srbdmpc::MPCSolution
+init	hpipm_imp/src/qp_data.cpp	/^void QPData::init(const ContactSchedule& contact_schedule) {$/;"	f	class:srbdmpc::QPData
+init	hpipm_imp/src/qp_solver.cpp	/^void QPSolver::init(QPData& qp_data) {$/;"	f	class:srbdmpc::QPSolver
+initQP	hpipm_imp/src/cost_function.cpp	/^void CostFunction::initQP(QPData& qp_data) {$/;"	f	class:srbdmpc::CostFunction
+initQP	hpipm_imp/src/state_equation.cpp	/^void StateEquation::initQP(QPData& qp_data) const {$/;"	f	class:srbdmpc::StateEquation
+integrate	hpipm_imp/src/single_rigid_body.cpp	/^void SingleRigidBody::integrate(const Vector6d& dq, Vector7d& q) const {$/;"	f	class:srbdmpc::SingleRigidBody
+integrate	hpipm_imp/src/single_rigid_body.cpp	/^void SingleRigidBody::integrate(const Vector7d& q, const Vector6d& dq, $/;"	f	class:srbdmpc::SingleRigidBody
+integrate_robot_dynamics	quadprog_imp/mpc/srbd_mpc.cpp	/^void SRBDMPC::integrate_robot_dynamics(const double &dt,$/;"	f	class:SRBDMPC
+isContactActive	hpipm_imp/include/srbd-mpc/contact_schedule.hpp	/^  const std::vector<bool> isContactActive(const int phase) const {$/;"	f	class:srbdmpc::ContactSchedule
+is_contact_active_	hpipm_imp/include/srbd-mpc/contact_schedule.hpp	/^  std::vector<std::vector<bool>> is_contact_active_;$/;"	m	class:srbdmpc::ContactSchedule
+is_contact_active_	quadprog_imp/mpc/contact_schedule.hpp	/^  std::vector<std::vector<bool>> is_contact_active_;      \/\/ phase -> ee$/;"	m	class:BipedEndEffectorId::QuadrupedEndEffectorId::ContactSchedule
+kron	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GMatr<T> kron(const GVect<T> &b, const GVect<T> &a) {$/;"	f	namespace:GolDIdnani
+latest_f_vec_out	quadprog_imp/mpc/srbd_mpc.hpp	/^      latest_f_vec_out; \/\/ Container holding the the latest computed force$/;"	m	class:SRBDMPC
+log	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline GVect<T> log(const GVect<T> &v) {$/;"	f	namespace:GolDIdnani
+lu	quadprog_imp/goldfarb/Array.hh	/^int lu(const GMatr<T> &A, GMatr<T> &LU, GVect<unsigned int> &index) {$/;"	f	namespace:GolDIdnani
+lu_det	quadprog_imp/goldfarb/Array.hh	/^template <typename T> T lu_det(const GMatr<T> &A) {$/;"	f	namespace:GolDIdnani
+lu_inverse	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GMatr<T> lu_inverse(const GMatr<T> &A) {$/;"	f	namespace:GolDIdnani
+lu_solve	quadprog_imp/goldfarb/Array.hh	/^GVect<T> lu_solve(const GMatr<T> &LU, const GVect<T> &b,$/;"	f	namespace:GolDIdnani
+lu_solve	quadprog_imp/goldfarb/Array.hh	/^void lu_solve(const GMatr<T> &LU, GVect<T> &x, const GVect<T> &b,$/;"	f	namespace:GolDIdnani
+m	quadprog_imp/goldfarb/Array.hh	/^  unsigned int m; \/\/ number of columns$/;"	m	class:GolDIdnani::GMatr
+m_	hpipm_imp/include/srbd-mpc/state_equation.hpp	/^  double dt_, m_;$/;"	m	class:srbdmpc::StateEquation
+m_flight_phase	quadprog_imp/mpc/gait_cycle.hpp	/^  double m_flight_phase; \/\/ value of phase when flight occurs$/;"	m	class:GaitCycle
+m_gait_offsets	quadprog_imp/mpc/gait_cycle.hpp	/^      m_gait_offsets; \/\/ a vector of the offset times for the contacts$/;"	m	class:GaitCycle
+m_internal_gait_contact_states	quadprog_imp/mpc/gait_cycle.hpp	/^      m_internal_gait_contact_states; \/\/ a vector of the contact states$/;"	m	class:GaitCycle
+m_internal_gait_phase_states	quadprog_imp/mpc/gait_cycle.hpp	/^  std::vector<double> m_internal_gait_phase_states; \/\/ a vector of the phase$/;"	m	class:GaitCycle
+m_num_contact_points	quadprog_imp/mpc/gait_cycle.hpp	/^  int m_num_contact_points; \/\/ internal variable that keeps track of the number$/;"	m	class:GaitCycle
+m_start_time	quadprog_imp/mpc/gait_cycle.hpp	/^  double m_start_time; \/\/ internal variable that keep track of the start time of$/;"	m	class:GaitCycle
+m_swing_time	quadprog_imp/mpc/gait_cycle.hpp	/^  double m_swing_time;$/;"	m	class:GaitCycle
+m_time	quadprog_imp/mpc/gait_cycle.hpp	/^  double m_time; \/\/ internal variable that keep track of the current time of the$/;"	m	class:GaitCycle
+m_total_gait_duration	quadprog_imp/mpc/gait_cycle.hpp	/^  double m_total_gait_duration;$/;"	m	class:GaitCycle
+main	hpipm_imp/test/contact_schedule_test.cpp	/^int main(int argc, char **argv) {$/;"	f
+main	hpipm_imp/test/cost_function_test.cpp	/^int main(int argc, char** argv) {$/;"	f
+main	hpipm_imp/test/friction_cone_test.cpp	/^int main(int argc, char** argv) {$/;"	f
+main	hpipm_imp/test/mpc_test.cpp	/^int main(int argc, char** argv) {$/;"	f
+main	hpipm_imp/test/robot_state_test.cpp	/^int main(int argc, char** argv) {$/;"	f
+main	hpipm_imp/test/single_rigid_body_test.cpp	/^int main(int argc, char** argv) {$/;"	f
+main	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^int main(argc, argv) int argc; char *argv[];$/;"	f
+main	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	quadprog_imp/main.cpp	/^int main(int argc, char *argv[]) {$/;"	f
+max	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GVect<T> max(const GMatr<T> &m) {$/;"	f	namespace:GolDIdnani
+max	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline T max(const GVect<T> &v) {$/;"	f	namespace:GolDIdnani
+max_rf_z_	quadprog_imp/mpc/contact_schedule.hpp	/^  std::vector<std::vector<double>> max_rf_z_;             \/\/ node -> ee$/;"	m	class:BipedEndEffectorId::QuadrupedEndEffectorId::ContactSchedule
+mean	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GVect<T> mean(const GMatr<T> &m) {$/;"	f	namespace:GolDIdnani
+mean	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline T mean(const GVect<T> &v) {$/;"	f	namespace:GolDIdnani
+median	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline T median(const GVect<T> &v) {$/;"	f	namespace:GolDIdnani
+min	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GVect<T> min(const GMatr<T> &m) {$/;"	f	namespace:GolDIdnani
+min	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline T min(const GVect<T> &v) {$/;"	f	namespace:GolDIdnani
+model_	hpipm_imp/include/srbd-mpc/robot_state.hpp	/^  pinocchio::Model model_;$/;"	m	class:srbdmpc::RobotState
+model_	hpipm_imp/include/srbd-mpc/single_rigid_body.hpp	/^  pinocchio::Model model_;$/;"	m	class:srbdmpc::SingleRigidBody
+mpc_dt	quadprog_imp/mpc/srbd_mpc.hpp	/^  double mpc_dt;         \/\/ mpc time interval per horizon steo$/;"	m	class:SRBDMPC
+mpc_solution_	hpipm_imp/include/srbd-mpc/mpc.hpp	/^  MPCSolution mpc_solution_;$/;"	m	class:srbdmpc::MPC
+mu	hpipm_imp/test/friction_cone_test.cpp	/^  double mu, fzmin, fzmax;$/;"	m	class:srbdmpc::FrictionConeTest	file:
+mu	hpipm_imp/test/mpc_test.cpp	/^  double dt, mu, fzmin, fzmax;$/;"	m	class:srbdmpc::MPCTest	file:
+mu	quadprog_imp/mpc/srbd_mpc.hpp	/^  double mu;             \/\/ coefficient of friction$/;"	m	class:SRBDMPC
+mu0	hpipm_imp/include/srbd-mpc/solver_options.hpp	/^  double mu0 = 1.0e+02; \/\/ intial barrier parameter$/;"	m	struct:srbdmpc::SolverOptions
+mu_	hpipm_imp/include/srbd-mpc/friction_cone.hpp	/^  double mu_, fzmin_, fzmax_;$/;"	m	class:srbdmpc::FrictionCone
+n	quadprog_imp/goldfarb/Array.hh	/^  unsigned int n; \/\/ number of rows$/;"	m	class:GolDIdnani::GMatr
+n	quadprog_imp/goldfarb/Array.hh	/^  unsigned int n; \/\/ size of array. upper index is n-1$/;"	m	class:GolDIdnani::GVect
+n_contact_	quadprog_imp/mpc/contact_schedule.hpp	/^  int n_contact_;            \/\/ number of contact$/;"	m	class:BipedEndEffectorId::QuadrupedEndEffectorId::ContactSchedule
+ncols	quadprog_imp/goldfarb/Array.hh	/^  inline unsigned int ncols() const { return m; } \/\/ number of columns$/;"	f	class:GolDIdnani::GMatr
+nrows	quadprog_imp/goldfarb/Array.hh	/^  inline unsigned int nrows() const { return n; } \/\/ number of rows$/;"	f	class:GolDIdnani::GMatr
+numActiveContacts	hpipm_imp/include/srbd-mpc/contact_schedule.hpp	/^  int numActiveContacts(const int phase) const {$/;"	f	class:srbdmpc::ContactSchedule
+num_active_contacts_	hpipm_imp/include/srbd-mpc/contact_schedule.hpp	/^  std::vector<int> num_active_contacts_;$/;"	m	class:srbdmpc::ContactSchedule
+operator !=	quadprog_imp/goldfarb/Array.hh	/^inline bool operator!=(const GMatr<T> &a, const GMatr<T> &b) {$/;"	f	namespace:GolDIdnani
+operator !=	quadprog_imp/goldfarb/Array.hh	/^inline bool operator!=(const GVect<T> &v, const GVect<T> &w) {$/;"	f	namespace:GolDIdnani
+operator *	quadprog_imp/goldfarb/Array.hh	/^GMatr<T> operator*(const GMatr<T> &lhs, const GMatr<T> &rhs) {$/;"	f	namespace:GolDIdnani
+operator *	quadprog_imp/goldfarb/Array.hh	/^inline GVect<T> operator*(const GVect<T> &lhs, const GVect<T> &rhs) {$/;"	f	namespace:GolDIdnani
+operator *	quadprog_imp/goldfarb/Array.hh	/^inline GVect<T> operator*(const GVect<T> &lhs, const T &a) {$/;"	f	namespace:GolDIdnani
+operator *	quadprog_imp/goldfarb/Array.hh	/^inline GVect<T> operator*(const T &a, const GVect<T> &rhs) {$/;"	f	namespace:GolDIdnani
+operator *	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GMatr<T> operator*(const GMatr<T> &lhs, const T &a) {$/;"	f	namespace:GolDIdnani
+operator *	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GMatr<T> operator*(const T &a, const GMatr<T> &rhs) {$/;"	f	namespace:GolDIdnani
+operator *=	quadprog_imp/goldfarb/Array.hh	/^inline GMatr<T> &GMatr<T>::operator*=(const GMatr<T> &rhs) {$/;"	f	class:GolDIdnani::GMatr
+operator *=	quadprog_imp/goldfarb/Array.hh	/^inline GVect<T> &GVect<T>::operator*=(const GVect<T> &rhs) {$/;"	f	class:GolDIdnani::GVect
+operator *=	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline GMatr<T> &GMatr<T>::operator*=(const T &a) {$/;"	f	class:GolDIdnani::GMatr
+operator *=	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline GVect<T> &GVect<T>::operator*=(const T &a) {$/;"	f	class:GolDIdnani::GVect
+operator +	quadprog_imp/goldfarb/Array.hh	/^GMatr<T> operator+(const GMatr<T> &lhs, const GMatr<T> &rhs) {$/;"	f	namespace:GolDIdnani
+operator +	quadprog_imp/goldfarb/Array.hh	/^inline GVect<T> operator+(const GVect<T> &lhs, const GVect<T> &rhs) {$/;"	f	namespace:GolDIdnani
+operator +	quadprog_imp/goldfarb/Array.hh	/^inline GVect<T> operator+(const GVect<T> &lhs, const T &a) {$/;"	f	namespace:GolDIdnani
+operator +	quadprog_imp/goldfarb/Array.hh	/^inline GVect<T> operator+(const T &a, const GVect<T> &rhs) {$/;"	f	namespace:GolDIdnani
+operator +	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GMatr<T> operator+(const GMatr<T> &lhs, const T &a) {$/;"	f	namespace:GolDIdnani
+operator +	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GMatr<T> operator+(const GMatr<T> &rhs) { return rhs; }$/;"	f	namespace:GolDIdnani
+operator +	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GMatr<T> operator+(const T &a, const GMatr<T> &rhs) {$/;"	f	namespace:GolDIdnani
+operator +	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline GVect<T> operator+(const GVect<T> &rhs) {$/;"	f	namespace:GolDIdnani
+operator +=	quadprog_imp/goldfarb/Array.hh	/^inline GMatr<T> &GMatr<T>::operator+=(const GMatr<T> &rhs) {$/;"	f	class:GolDIdnani::GMatr
+operator +=	quadprog_imp/goldfarb/Array.hh	/^inline GVect<T> &GVect<T>::operator+=(const GVect<T> &rhs) {$/;"	f	class:GolDIdnani::GVect
+operator +=	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline GMatr<T> &GMatr<T>::operator+=(const T &a) {$/;"	f	class:GolDIdnani::GMatr
+operator +=	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline GVect<T> &GVect<T>::operator+=(const T &a) {$/;"	f	class:GolDIdnani::GVect
+operator -	quadprog_imp/goldfarb/Array.hh	/^GMatr<T> operator-(const GMatr<T> &lhs, const GMatr<T> &rhs) {$/;"	f	namespace:GolDIdnani
+operator -	quadprog_imp/goldfarb/Array.hh	/^inline GVect<T> operator-(const GVect<T> &lhs, const GVect<T> &rhs) {$/;"	f	namespace:GolDIdnani
+operator -	quadprog_imp/goldfarb/Array.hh	/^inline GVect<T> operator-(const GVect<T> &lhs, const T &a) {$/;"	f	namespace:GolDIdnani
+operator -	quadprog_imp/goldfarb/Array.hh	/^inline GVect<T> operator-(const T &a, const GVect<T> &rhs) {$/;"	f	namespace:GolDIdnani
+operator -	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GMatr<T> operator-(const GMatr<T> &lhs, const T &a) {$/;"	f	namespace:GolDIdnani
+operator -	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GMatr<T> operator-(const GMatr<T> &rhs) {$/;"	f	namespace:GolDIdnani
+operator -	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GMatr<T> operator-(const T &a, const GMatr<T> &rhs) {$/;"	f	namespace:GolDIdnani
+operator -	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline GVect<T> operator-(const GVect<T> &rhs) {$/;"	f	namespace:GolDIdnani
+operator -=	quadprog_imp/goldfarb/Array.hh	/^inline GMatr<T> &GMatr<T>::operator-=(const GMatr<T> &rhs) {$/;"	f	class:GolDIdnani::GMatr
+operator -=	quadprog_imp/goldfarb/Array.hh	/^inline GVect<T> &GVect<T>::operator-=(const GVect<T> &rhs) {$/;"	f	class:GolDIdnani::GVect
+operator -=	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline GMatr<T> &GMatr<T>::operator-=(const T &a) {$/;"	f	class:GolDIdnani::GMatr
+operator -=	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline GVect<T> &GVect<T>::operator-=(const T &a) {$/;"	f	class:GolDIdnani::GVect
+operator /	quadprog_imp/goldfarb/Array.hh	/^GMatr<T> operator\/(const GMatr<T> &lhs, const GMatr<T> &rhs) {$/;"	f	namespace:GolDIdnani
+operator /	quadprog_imp/goldfarb/Array.hh	/^inline GVect<T> operator\/(const GVect<T> &lhs, const GVect<T> &rhs) {$/;"	f	namespace:GolDIdnani
+operator /	quadprog_imp/goldfarb/Array.hh	/^inline GVect<T> operator\/(const GVect<T> &lhs, const T &a) {$/;"	f	namespace:GolDIdnani
+operator /	quadprog_imp/goldfarb/Array.hh	/^inline GVect<T> operator\/(const T &a, const GVect<T> &rhs) {$/;"	f	namespace:GolDIdnani
+operator /	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GMatr<T> operator\/(const GMatr<T> &lhs, const T &a) {$/;"	f	namespace:GolDIdnani
+operator /	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GMatr<T> operator\/(const T &a, const GMatr<T> &rhs) {$/;"	f	namespace:GolDIdnani
+operator /=	quadprog_imp/goldfarb/Array.hh	/^inline GMatr<T> &GMatr<T>::operator\/=(const GMatr<T> &rhs) {$/;"	f	class:GolDIdnani::GMatr
+operator /=	quadprog_imp/goldfarb/Array.hh	/^inline GVect<T> &GVect<T>::operator\/=(const GVect<T> &rhs) {$/;"	f	class:GolDIdnani::GVect
+operator /=	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline GMatr<T> &GMatr<T>::operator\/=(const T &a) {$/;"	f	class:GolDIdnani::GMatr
+operator /=	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline GVect<T> &GVect<T>::operator\/=(const T &a) {$/;"	f	class:GolDIdnani::GVect
+operator <	quadprog_imp/goldfarb/Array.hh	/^inline bool operator<(const GVect<T> &v, const GVect<T> &w) {$/;"	f	namespace:GolDIdnani
+operator <<	quadprog_imp/goldfarb/Array.hh	/^inline std::ostream &operator<<(std::ostream &os, const GVect<T> &v) {$/;"	f	namespace:GolDIdnani
+operator <<	quadprog_imp/goldfarb/Array.hh	/^std::ostream &operator<<(std::ostream &os, const GMatr<T> &m) {$/;"	f	namespace:GolDIdnani
+operator <=	quadprog_imp/goldfarb/Array.hh	/^inline bool operator<=(const GVect<T> &v, const GVect<T> &w) {$/;"	f	namespace:GolDIdnani
+operator =	quadprog_imp/goldfarb/Array.hh	/^inline GMatr<T> &GMatr<T>::operator=(const GMatr<T> &rhs)$/;"	f	class:GolDIdnani::GMatr
+operator =	quadprog_imp/goldfarb/Array.hh	/^inline GMatr<T> &GMatr<T>::operator=(const T &a) \/\/ assign a to every element$/;"	f	class:GolDIdnani::GMatr
+operator =	quadprog_imp/goldfarb/Array.hh	/^inline GVect<T> &GVect<T>::operator=(const GVect<T> &rhs)$/;"	f	class:GolDIdnani::GVect
+operator =	quadprog_imp/goldfarb/Array.hh	/^inline GVect<T> &GVect<T>::operator=(const T &a) \/\/ assign a to every element$/;"	f	class:GolDIdnani::GVect
+operator ==	quadprog_imp/goldfarb/Array.hh	/^inline bool operator==(const GMatr<T> &a, const GMatr<T> &b) {$/;"	f	namespace:GolDIdnani
+operator ==	quadprog_imp/goldfarb/Array.hh	/^inline bool operator==(const GVect<T> &v, const GVect<T> &w) {$/;"	f	namespace:GolDIdnani
+operator >	quadprog_imp/goldfarb/Array.hh	/^inline bool operator>(const GVect<T> &v, const GVect<T> &w) {$/;"	f	namespace:GolDIdnani
+operator >=	quadprog_imp/goldfarb/Array.hh	/^inline bool operator>=(const GVect<T> &v, const GVect<T> &w) {$/;"	f	namespace:GolDIdnani
+operator >>	quadprog_imp/goldfarb/Array.hh	/^template <typename T> std::istream &operator>>(std::istream &is, GMatr<T> &m) {$/;"	f	namespace:GolDIdnani
+operator >>	quadprog_imp/goldfarb/Array.hh	/^template <typename T> std::istream &operator>>(std::istream &is, GVect<T> &v) {$/;"	f	namespace:GolDIdnani
+operator GVect<T>	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline GMatr<T>::operator GVect<T>() {$/;"	f	class:GolDIdnani::GMatr
+operator []	quadprog_imp/goldfarb/Array.hh	/^  inline T *operator[](const unsigned int &i) {$/;"	f	class:GolDIdnani::GMatr
+operator []	quadprog_imp/goldfarb/Array.hh	/^  inline const T *operator[](const unsigned int &i) const {$/;"	f	class:GolDIdnani::GMatr
+operator []	quadprog_imp/goldfarb/Array.hh	/^inline T &GVect<T>::operator[](const unsigned int &i) \/\/ subscripting$/;"	f	class:GolDIdnani::GVect
+operator []	quadprog_imp/goldfarb/Array.hh	/^operator[](const unsigned int &i) const \/\/ subscripting$/;"	f	class:GolDIdnani::GVect
+operator ^	quadprog_imp/goldfarb/Array.hh	/^inline GVect<T> operator^(const GVect<T> &lhs, const GVect<T> &rhs) {$/;"	f	namespace:GolDIdnani
+operator ^	quadprog_imp/goldfarb/Array.hh	/^inline GVect<T> operator^(const GVect<T> &lhs, const T &a) {$/;"	f	namespace:GolDIdnani
+operator ^	quadprog_imp/goldfarb/Array.hh	/^inline GVect<T> operator^(const T &a, const GVect<T> &rhs) {$/;"	f	namespace:GolDIdnani
+operator ^	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GMatr<T> operator^(const GMatr<T> &lhs, const T &a) {$/;"	f	namespace:GolDIdnani
+operator ^=	quadprog_imp/goldfarb/Array.hh	/^inline GMatr<T> &GMatr<T>::operator^=(const GMatr<T> &rhs) {$/;"	f	class:GolDIdnani::GMatr
+operator ^=	quadprog_imp/goldfarb/Array.hh	/^inline GVect<T> &GVect<T>::operator^=(const GVect<T> &rhs) {$/;"	f	class:GolDIdnani::GVect
+operator ^=	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline GMatr<T> &GMatr<T>::operator^=(const T &a) {$/;"	f	class:GolDIdnani::GMatr
+operator ^=	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline GVect<T> &GVect<T>::operator^=(const T &a) {$/;"	f	class:GolDIdnani::GVect
+partition	quadprog_imp/goldfarb/Array.hh	/^inline unsigned int partition(GVect<T> &v, unsigned int begin,$/;"	f	namespace:GolDIdnani
+phase	hpipm_imp/include/srbd-mpc/contact_schedule.hpp	/^  int phase(const int stage) const {$/;"	f	class:srbdmpc::ContactSchedule
+phase	quadprog_imp/mpc/contact_schedule.hpp	/^  int phase(const int node_idx) const {$/;"	f	class:BipedEndEffectorId::QuadrupedEndEffectorId::ContactSchedule
+phase_	hpipm_imp/include/srbd-mpc/contact_schedule.hpp	/^  std::vector<int> phase_;$/;"	m	class:srbdmpc::ContactSchedule
+phase_	quadprog_imp/mpc/contact_schedule.hpp	/^  std::vector<int> phase_;                                \/\/ node$/;"	m	class:BipedEndEffectorId::QuadrupedEndEffectorId::ContactSchedule
+pinv	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GMatr<T> pinv(const GMatr<T> &A) {$/;"	f	namespace:GolDIdnani
+pos	hpipm_imp/include/srbd-mpc/mpc_solution.hpp	/^  const aligned_vector<Vector3d>& pos() const { return pos_; }$/;"	f	class:srbdmpc::MPCSolution
+pos_	hpipm_imp/include/srbd-mpc/mpc_solution.hpp	/^  aligned_vector<Vector3d> pos_;$/;"	m	class:srbdmpc::MPCSolution
+pose	hpipm_imp/include/srbd-mpc/mpc_solution.hpp	/^  const aligned_vector<Vector7d>& pose() const { return pose_; }$/;"	f	class:srbdmpc::MPCSolution
+pose	hpipm_imp/include/srbd-mpc/robot_state.hpp	/^  const Vector7d pose() const {$/;"	f	class:srbdmpc::RobotState
+pose_	hpipm_imp/include/srbd-mpc/mpc_solution.hpp	/^  aligned_vector<Vector7d> pose_;$/;"	m	class:srbdmpc::MPCSolution
+pose_	hpipm_imp/include/srbd-mpc/robot_state.hpp	/^  Vector7d pose_;$/;"	m	class:srbdmpc::RobotState
+pow	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline GVect<T> pow(const GVect<T> &v, double a) {$/;"	f	namespace:GolDIdnani
+pred_corr	hpipm_imp/include/srbd-mpc/solver_options.hpp	/^  int pred_corr = 1; \/\/ use correction step$/;"	m	struct:srbdmpc::SolverOptions
+printCurrentGaitInfo	quadprog_imp/mpc/gait_cycle.cpp	/^void GaitCycle::printCurrentGaitInfo() {$/;"	f	class:GaitCycle
+print_f_vec	quadprog_imp/mpc/srbd_mpc.cpp	/^void SRBDMPC::print_f_vec(int &n_Fr, const Eigen::VectorXd &f_vec_out) {$/;"	f	class:SRBDMPC
+print_matrix	quadprog_imp/goldfarb/QuadProg++.cc	/^void print_matrix(char *name, const GMatr<double> &A, int n, int m) {$/;"	f
+print_vector	quadprog_imp/goldfarb/QuadProg++.cc	/^template <typename T> void print_vector(char *name, const GVect<T> &v, int n) {$/;"	f
+prod	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GVect<T> prod(const GMatr<T> &m) {$/;"	f	namespace:GolDIdnani
+prod	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline T prod(const GVect<T> &v) {$/;"	f	namespace:GolDIdnani
+push_back	hpipm_imp/src/contact_schedule.cpp	/^void ContactSchedule::push_back(const double t, $/;"	f	class:srbdmpc::ContactSchedule
+qdiff_	hpipm_imp/include/srbd-mpc/cost_function.hpp	/^  Vector6d qdiff_;$/;"	m	class:srbdmpc::CostFunction
+qnxnto	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+qnxnto	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+qp	hpipm_imp/include/srbd-mpc/qp_data.hpp	/^  hpipm::OcpQp qp;$/;"	m	struct:srbdmpc::QPData
+qp_data_	hpipm_imp/include/srbd-mpc/mpc.hpp	/^  QPData qp_data_;$/;"	m	class:srbdmpc::MPC
+qp_matrices	quadprog_imp/mpc/srbd_mpc.cpp	/^void SRBDMPC::qp_matrices(const Eigen::MatrixXd &Adt,$/;"	f	class:SRBDMPC
+qp_mult_dur_	quadprog_imp/mpc/srbd_mpc.hpp	/^  std::vector<double> qp_mult_dur_;$/;"	m	class:SRBDMPC
+qp_prep_dur_	quadprog_imp/mpc/srbd_mpc.hpp	/^  std::vector<double> qp_prep_dur_;$/;"	m	class:SRBDMPC
+qp_solution	hpipm_imp/include/srbd-mpc/qp_data.hpp	/^  hpipm::OcpQpSolution qp_solution;$/;"	m	struct:srbdmpc::QPData
+qp_solve_dur_	quadprog_imp/mpc/srbd_mpc.hpp	/^  std::vector<double> qp_solve_dur_;$/;"	m	class:SRBDMPC
+qp_solver_	hpipm_imp/include/srbd-mpc/mpc.hpp	/^  QPSolver qp_solver_;$/;"	m	class:srbdmpc::MPC
+quat	hpipm_imp/include/srbd-mpc/mpc_solution.hpp	/^  const aligned_vector<Quaterniond>& quat() const { return quat_; }$/;"	f	class:srbdmpc::MPCSolution
+quat	hpipm_imp/include/srbd-mpc/robot_state.hpp	/^  const Quaterniond& quat() const {$/;"	f	class:srbdmpc::RobotState
+quat_	hpipm_imp/include/srbd-mpc/mpc_solution.hpp	/^  aligned_vector<Quaterniond> quat_;$/;"	m	class:srbdmpc::MPCSolution
+quat_	hpipm_imp/include/srbd-mpc/robot_state.hpp	/^  Quaterniond quat_;$/;"	m	class:srbdmpc::RobotState
+quicksort	quadprog_imp/goldfarb/Array.hh	/^inline void quicksort(GVect<T> &v, unsigned int begin, unsigned int end) {$/;"	f	namespace:GolDIdnani
+r_feet_	quadprog_imp/mpc/srbd_mpc.hpp	/^  Eigen::MatrixXd r_feet_; \/\/ Store the value of r_feet locally.$/;"	m	class:SRBDMPC
+r_max	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GVect<T> r_max(const GMatr<T> &m) {$/;"	f	namespace:GolDIdnani
+r_mean	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GVect<T> r_mean(const GMatr<T> &m) {$/;"	f	namespace:GolDIdnani
+r_min	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GVect<T> r_min(const GMatr<T> &m) {$/;"	f	namespace:GolDIdnani
+r_prod	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GVect<T> r_prod(const GMatr<T> &m) {$/;"	f	namespace:GolDIdnani
+r_rank	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline GMatr<double> r_rank(const GMatr<T> m) {$/;"	f	namespace:GolDIdnani
+r_stdev	quadprog_imp/goldfarb/Array.hh	/^GVect<T> r_stdev(const GMatr<T> &m, bool sample_correction = false) {$/;"	f	namespace:GolDIdnani
+r_sum	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GVect<T> r_sum(const GMatr<T> &m) {$/;"	f	namespace:GolDIdnani
+r_var	quadprog_imp/goldfarb/Array.hh	/^GVect<T> r_var(const GMatr<T> &m, bool sample_correction = false) {$/;"	f	namespace:GolDIdnani
+random	quadprog_imp/goldfarb/Array.hh	/^template <typename T> void random(GMatr<T> &m) {$/;"	f	namespace:GolDIdnani
+rank	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline GMatr<double> rank(const GMatr<T> m) {$/;"	f	namespace:GolDIdnani
+rank	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline GVect<double> rank(const GVect<T> &v) {$/;"	f	namespace:GolDIdnani
+reaction_force_schedule_ptr	quadprog_imp/mpc/srbd_mpc.hpp	/^      reaction_force_schedule_ptr; \/\/ pointer to the reaction force schedule$/;"	m	class:SRBDMPC
+reg_prim	hpipm_imp/include/srbd-mpc/solver_options.hpp	/^  double reg_prim = 1.0e-12; \/\/ reg$/;"	m	struct:srbdmpc::SolverOptions
+register	quadprog_imp/goldfarb/QuadProg++.hh	/^#define register /;"	d
+reset	hpipm_imp/src/contact_schedule.cpp	/^void ContactSchedule::reset(const double t, $/;"	f	class:srbdmpc::ContactSchedule
+reset	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline void CanonicalBaseGVect<T>::reset(unsigned int i) {$/;"	f	class:GolDIdnani::CanonicalBaseGVect
+reset	quadprog_imp/mpc/contact_schedule.cpp	/^void ContactSchedule::reset(const double t,$/;"	f	class:ContactSchedule
+resize	hpipm_imp/src/qp_data.cpp	/^void QPData::resize(const ContactSchedule& contact_schedule) {$/;"	f	class:srbdmpc::QPData
+resize	quadprog_imp/goldfarb/Array.hh	/^inline void GMatr<T>::resize(const T &a, const unsigned int n,$/;"	f	class:GolDIdnani::GMatr
+resize	quadprog_imp/goldfarb/Array.hh	/^inline void GMatr<T>::resize(const unsigned int n, const unsigned int m) {$/;"	f	class:GolDIdnani::GMatr
+resize	quadprog_imp/goldfarb/Array.hh	/^template <typename T> void GVect<T>::resize(const T &a, const unsigned int n) {$/;"	f	class:GolDIdnani::GVect
+resize	quadprog_imp/goldfarb/Array.hh	/^template <typename T> void GVect<T>::resize(const unsigned int n) {$/;"	f	class:GolDIdnani::GVect
+ric_alg	hpipm_imp/include/srbd-mpc/solver_options.hpp	/^  int ric_alg = 1; \/\/ use square-root Riccati or not $/;"	m	struct:srbdmpc::SolverOptions
+robot_mass	quadprog_imp/mpc/srbd_mpc.hpp	/^  double robot_mass;       \/\/ kg mass of the robot$/;"	m	class:SRBDMPC
+robot_mass_	quadprog_imp/mpc/contact_schedule.hpp	/^  double robot_mass_;        \/\/ maximum normal reaction force$/;"	m	class:BipedEndEffectorId::QuadrupedEndEffectorId::ContactSchedule
+rotateBodyInertia	quadprog_imp/mpc/srbd_mpc.hpp	/^  void rotateBodyInertia(bool rotate_inertia_in) {$/;"	f	class:SRBDMPC
+rotate_inertia	quadprog_imp/mpc/srbd_mpc.hpp	/^  bool rotate_inertia; \/\/ whether or not the inertia needs to be rotated to the$/;"	m	class:SRBDMPC
+run_toy_exmaple	quadprog_imp/main.cpp	/^void run_toy_exmaple() {$/;"	f
+run_with_pnc_input	quadprog_imp/main.cpp	/^void run_with_pnc_input() {$/;"	f
+scalar_product	quadprog_imp/goldfarb/QuadProg++.cc	/^inline double scalar_product(const GVect<double> &x, const GVect<double> &y) {$/;"	f
+seq	quadprog_imp/goldfarb/Array.cc	/^std::set<unsigned int> seq(unsigned int s, unsigned int e)$/;"	f
+set	quadprog_imp/goldfarb/Array.hh	/^inline void GMatr<T>::set(const T *a, unsigned int n, unsigned int m) {$/;"	f	class:GolDIdnani::GMatr
+set	quadprog_imp/goldfarb/Array.hh	/^inline void GMatr<T>::set(const std::set<unsigned int> &r_indexes,$/;"	f	class:GolDIdnani::GMatr
+set	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline void GVect<T>::set(const T *a, unsigned int n) {$/;"	f	class:GolDIdnani::GVect
+setColumn	quadprog_imp/goldfarb/Array.hh	/^inline void GMatr<T>::setColumn(unsigned int j, const GMatr<T> &a) {$/;"	f	class:GolDIdnani::GMatr
+setColumn	quadprog_imp/goldfarb/Array.hh	/^inline void GMatr<T>::setColumn(unsigned int j, const GVect<T> &a) {$/;"	f	class:GolDIdnani::GMatr
+setColumns	quadprog_imp/goldfarb/Array.hh	/^inline void GMatr<T>::setColumns(const std::set<unsigned int> &indexes,$/;"	f	class:GolDIdnani::GMatr
+setControlAlpha	quadprog_imp/mpc/srbd_mpc.hpp	/^  void setControlAlpha(const double control_alpha_in) {$/;"	f	class:SRBDMPC
+setCostVec	quadprog_imp/mpc/srbd_mpc.cpp	/^void SRBDMPC::setCostVec(const Eigen::VectorXd &cost_vec_in) {$/;"	f	class:SRBDMPC
+setCustomGaitCycle	quadprog_imp/mpc/srbd_mpc.cpp	/^void SRBDMPC::setCustomGaitCycle(std::shared_ptr<GaitCycle> gait_cycle_ptr_in) {$/;"	f	class:SRBDMPC
+setCustomReactionForceSchedule	quadprog_imp/mpc/srbd_mpc.cpp	/^void SRBDMPC::setCustomReactionForceSchedule($/;"	f	class:SRBDMPC
+setCustomSmoothing	quadprog_imp/mpc/srbd_mpc.hpp	/^  void setCustomSmoothing(const Eigen::MatrixXd &Dc1_in) { Dc1 = Dc1_in; }$/;"	f	class:SRBDMPC
+setDefaultMaxNormalForce	quadprog_imp/mpc/reaction_force_schedule.cpp	/^void ReactionForceSchedule::setDefaultMaxNormalForce($/;"	f	class:ReactionForceSchedule
+setDeltaSmooth	quadprog_imp/mpc/srbd_mpc.hpp	/^  void setDeltaSmooth(const double delta_smooth_in) {$/;"	f	class:SRBDMPC
+setDt	quadprog_imp/mpc/srbd_mpc.hpp	/^  void setDt(const double mpc_dt_in) {$/;"	f	class:SRBDMPC
+setGaitOffsets	quadprog_imp/mpc/gait_cycle.cpp	/^void GaitCycle::setGaitOffsets(const std::vector<double> gait_offsets_in) {$/;"	f	class:GaitCycle
+setHorizon	quadprog_imp/mpc/srbd_mpc.cpp	/^void SRBDMPC::setHorizon(const int &horizon_in) {$/;"	f	class:SRBDMPC
+setMaxFz	quadprog_imp/mpc/srbd_mpc.cpp	/^void SRBDMPC::setMaxFz(const double fz_max_in) {$/;"	f	class:SRBDMPC
+setMu	quadprog_imp/mpc/srbd_mpc.hpp	/^  void setMu(const double mu_in) {$/;"	f	class:SRBDMPC
+setOptions	hpipm_imp/src/mpc.cpp	/^void MPC::setOptions(const SolverOptions& solver_options) {$/;"	f	class:srbdmpc::MPC
+setPreviewStartTime	quadprog_imp/mpc/srbd_mpc.cpp	/^void SRBDMPC::setPreviewStartTime(const double t_preview_start_in) {$/;"	f	class:SRBDMPC
+setQP	hpipm_imp/src/cost_function.cpp	/^void CostFunction::setQP(const ContactSchedule& contact_schedule, $/;"	f	class:srbdmpc::CostFunction
+setQP	hpipm_imp/src/friction_cone.cpp	/^void FrictionCone::setQP(QPData& qp_data) const {$/;"	f	class:srbdmpc::FrictionCone
+setQP	hpipm_imp/src/state_equation.cpp	/^void StateEquation::setQP(const ContactSchedule& contact_schedule, $/;"	f	class:srbdmpc::StateEquation
+setRobotInertia	quadprog_imp/mpc/srbd_mpc.hpp	/^  void setRobotInertia(const Eigen::MatrixXd &inertia_in) {$/;"	f	class:SRBDMPC
+setRobotMass	quadprog_imp/mpc/srbd_mpc.hpp	/^  void setRobotMass(const double robot_mass_in) { robot_mass = robot_mass_in; }$/;"	f	class:SRBDMPC
+setRow	quadprog_imp/goldfarb/Array.hh	/^inline void GMatr<T>::setRow(unsigned int i, const GMatr<T> &a) {$/;"	f	class:GolDIdnani::GMatr
+setRow	quadprog_imp/goldfarb/Array.hh	/^inline void GMatr<T>::setRow(unsigned int i, const GVect<T> &a) {$/;"	f	class:GolDIdnani::GMatr
+setRows	quadprog_imp/goldfarb/Array.hh	/^inline void GMatr<T>::setRows(const std::set<unsigned int> &indexes,$/;"	f	class:GolDIdnani::GMatr
+setSmoothFromPrevResult	quadprog_imp/mpc/srbd_mpc.hpp	/^  void setSmoothFromPrevResult(const bool smooth_prev_in) {$/;"	f	class:SRBDMPC
+setSwingTime	quadprog_imp/mpc/gait_cycle.cpp	/^void GaitCycle::setSwingTime(const double swing_time_in) {$/;"	f	class:GaitCycle
+setTerminalCostVec	quadprog_imp/mpc/srbd_mpc.cpp	/^void SRBDMPC::setTerminalCostVec(const bool use_terminal_cost_in,$/;"	f	class:SRBDMPC
+setTotalGaitDuration	quadprog_imp/mpc/gait_cycle.cpp	/^void GaitCycle::setTotalGaitDuration(const double total_gait_duration_in) {$/;"	f	class:GaitCycle
+settings	hpipm_imp/include/srbd-mpc/qp_solver.hpp	/^  hpipm::OcpQpIpmSolverSettings settings;$/;"	m	class:srbdmpc::QPSolver
+sign	quadprog_imp/goldfarb/Array.hh	/^template <typename T> T sign(const T &v) {$/;"	f	namespace:GolDIdnani
+sign	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline GVect<T> sign(const GVect<T> &v) {$/;"	f	namespace:GolDIdnani
+simulate_toy_mpc	quadprog_imp/mpc/srbd_mpc.cpp	/^void SRBDMPC::simulate_toy_mpc() {$/;"	f	class:SRBDMPC
+single_rigid_body_	hpipm_imp/include/srbd-mpc/cost_function.hpp	/^  SingleRigidBody single_rigid_body_;$/;"	m	class:srbdmpc::CostFunction
+single_rigid_body_	hpipm_imp/include/srbd-mpc/mpc_solution.hpp	/^  SingleRigidBody single_rigid_body_;$/;"	m	class:srbdmpc::MPCSolution
+singleton	quadprog_imp/goldfarb/Array.cc	/^std::set<unsigned int> singleton(unsigned int i)$/;"	f
+size	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline unsigned int GVect<T>::size() const { return n; }$/;"	f	class:GolDIdnani::GVect
+skew_sym_mat	quadprog_imp/mpc/srbd_mpc.cpp	/^Eigen::MatrixXd SRBDMPC::skew_sym_mat(const Eigen::VectorXd &v) {$/;"	f	class:SRBDMPC
+smooth_from_prev_result_	quadprog_imp/mpc/srbd_mpc.hpp	/^  bool smooth_from_prev_result_; \/\/ Whether to smooth the solution of the MPC$/;"	m	class:SRBDMPC
+solve	hpipm_imp/src/mpc.cpp	/^void MPC::solve(const RobotState& robot_state, $/;"	f	class:srbdmpc::MPC
+solve	hpipm_imp/src/qp_solver.cpp	/^void QPSolver::solve(QPData& qp_data) {$/;"	f	class:srbdmpc::QPSolver
+solve_mpc	quadprog_imp/mpc/srbd_mpc.cpp	/^void SRBDMPC::solve_mpc(const Eigen::VectorXd &x0, const Eigen::VectorXd &X_des,$/;"	f	class:SRBDMPC
+solve_mpc_qp	quadprog_imp/mpc/srbd_mpc.cpp	/^void SRBDMPC::solve_mpc_qp($/;"	f	class:SRBDMPC
+solve_quadprog	quadprog_imp/goldfarb/QuadProg++.cc	/^double solve_quadprog(Eigen::MatrixXd &_G, Eigen::VectorXd &_g0,$/;"	f
+solve_quadprog	quadprog_imp/goldfarb/QuadProg++.cc	/^double solve_quadprog(GMatr<double> &G, GVect<double> &g0,$/;"	f
+solver_	hpipm_imp/include/srbd-mpc/qp_solver.hpp	/^  hpipm::OcpQpIpmSolver solver_;$/;"	m	class:srbdmpc::QPSolver
+sort	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline GVect<T> sort(const GVect<T> &v) {$/;"	f	namespace:GolDIdnani
+split_step	hpipm_imp/include/srbd-mpc/solver_options.hpp	/^  int split_step = 0; \/\/  use different step for primal and dual variables or not$/;"	m	struct:srbdmpc::SolverOptions
+sqrt	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GMatr<T> sqrt(const GMatr<T> &m) {$/;"	f	namespace:GolDIdnani
+sqrt	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline GVect<T> sqrt(const GVect<T> &v) {$/;"	f	namespace:GolDIdnani
+srbdmpc	hpipm_imp/include/srbd-mpc/contact_schedule.hpp	/^namespace srbdmpc {$/;"	n
+srbdmpc	hpipm_imp/include/srbd-mpc/cost_function.hpp	/^namespace srbdmpc {$/;"	n
+srbdmpc	hpipm_imp/include/srbd-mpc/friction_cone.hpp	/^namespace srbdmpc {$/;"	n
+srbdmpc	hpipm_imp/include/srbd-mpc/gait_command.hpp	/^namespace srbdmpc {$/;"	n
+srbdmpc	hpipm_imp/include/srbd-mpc/mpc.hpp	/^namespace srbdmpc {$/;"	n
+srbdmpc	hpipm_imp/include/srbd-mpc/mpc_solution.hpp	/^namespace srbdmpc {$/;"	n
+srbdmpc	hpipm_imp/include/srbd-mpc/qp_data.hpp	/^namespace srbdmpc {$/;"	n
+srbdmpc	hpipm_imp/include/srbd-mpc/qp_solver.hpp	/^namespace srbdmpc {$/;"	n
+srbdmpc	hpipm_imp/include/srbd-mpc/robot_state.hpp	/^namespace srbdmpc {$/;"	n
+srbdmpc	hpipm_imp/include/srbd-mpc/single_rigid_body.hpp	/^namespace srbdmpc {$/;"	n
+srbdmpc	hpipm_imp/include/srbd-mpc/solver_options.hpp	/^namespace srbdmpc {$/;"	n
+srbdmpc	hpipm_imp/include/srbd-mpc/state_equation.hpp	/^namespace srbdmpc {$/;"	n
+srbdmpc	hpipm_imp/include/srbd-mpc/types.hpp	/^namespace srbdmpc {$/;"	n
+srbdmpc	hpipm_imp/src/contact_schedule.cpp	/^namespace srbdmpc {$/;"	n	file:
+srbdmpc	hpipm_imp/src/cost_function.cpp	/^namespace srbdmpc {$/;"	n	file:
+srbdmpc	hpipm_imp/src/friction_cone.cpp	/^namespace srbdmpc {$/;"	n	file:
+srbdmpc	hpipm_imp/src/mpc.cpp	/^namespace srbdmpc {$/;"	n	file:
+srbdmpc	hpipm_imp/src/mpc_solution.cpp	/^namespace srbdmpc {$/;"	n	file:
+srbdmpc	hpipm_imp/src/qp_data.cpp	/^namespace srbdmpc {$/;"	n	file:
+srbdmpc	hpipm_imp/src/qp_solver.cpp	/^namespace srbdmpc {$/;"	n	file:
+srbdmpc	hpipm_imp/src/robot_state.cpp	/^namespace srbdmpc {$/;"	n	file:
+srbdmpc	hpipm_imp/src/single_rigid_body.cpp	/^namespace srbdmpc {$/;"	n	file:
+srbdmpc	hpipm_imp/src/state_equation.cpp	/^namespace srbdmpc {$/;"	n	file:
+srbdmpc	hpipm_imp/test/contact_schedule_test.cpp	/^namespace srbdmpc {$/;"	n	file:
+srbdmpc	hpipm_imp/test/cost_function_test.cpp	/^namespace srbdmpc {$/;"	n	file:
+srbdmpc	hpipm_imp/test/friction_cone_test.cpp	/^namespace srbdmpc {$/;"	n	file:
+srbdmpc	hpipm_imp/test/mpc_test.cpp	/^namespace srbdmpc {$/;"	n	file:
+srbdmpc	hpipm_imp/test/robot_state_test.cpp	/^namespace srbdmpc {$/;"	n	file:
+srbdmpc	hpipm_imp/test/single_rigid_body_test.cpp	/^namespace srbdmpc {$/;"	n	file:
+state_equation_	hpipm_imp/include/srbd-mpc/mpc.hpp	/^  StateEquation state_equation_;$/;"	m	class:srbdmpc::MPC
+stdev	quadprog_imp/goldfarb/Array.hh	/^GVect<T> stdev(const GMatr<T> &m, bool sample_correction = false) {$/;"	f	namespace:GolDIdnani
+stdev	quadprog_imp/goldfarb/Array.hh	/^inline T stdev(const GVect<T> &v, bool sample_correction = false) {$/;"	f	namespace:GolDIdnani
+sum	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GVect<T> sum(const GMatr<T> &m) {$/;"	f	namespace:GolDIdnani
+sum	quadprog_imp/goldfarb/Array.hh	/^template <typename T> inline T sum(const GVect<T> &v) {$/;"	f	namespace:GolDIdnani
+svd	quadprog_imp/goldfarb/Array.hh	/^void svd(const GMatr<T> &A, GMatr<T> &U, GVect<T> &W, GMatr<T> &V) {$/;"	f	namespace:GolDIdnani
+t	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GMatr<T> t(const GMatr<T> &a) {$/;"	f	namespace:GolDIdnani
+t_	hpipm_imp/include/srbd-mpc/contact_schedule.hpp	/^  std::vector<double> t_;$/;"	m	class:srbdmpc::ContactSchedule
+t_	quadprog_imp/mpc/contact_schedule.hpp	/^  std::vector<double> t_;                                 \/\/ phase$/;"	m	class:BipedEndEffectorId::QuadrupedEndEffectorId::ContactSchedule
+t_preview_start	quadprog_imp/mpc/srbd_mpc.hpp	/^  double t_preview_start;  \/\/ store start time of the preview.$/;"	m	class:SRBDMPC
+t_rf_smoothing_	quadprog_imp/mpc/contact_schedule.hpp	/^  double t_rf_smoothing_;    \/\/ time duration for reaction force smoothing$/;"	m	class:BipedEndEffectorId::QuadrupedEndEffectorId::ContactSchedule
+terminal_cost_vec	quadprog_imp/mpc/srbd_mpc.hpp	/^  Eigen::VectorXd terminal_cost_vec;$/;"	m	class:SRBDMPC
+tol_comp	hpipm_imp/include/srbd-mpc/solver_options.hpp	/^  double tol_comp = 1.0e-04; \/\/ convergence criteria$/;"	m	struct:srbdmpc::SolverOptions
+tol_eq	hpipm_imp/include/srbd-mpc/solver_options.hpp	/^  double tol_eq = 1.0e-04; \/\/ convergence criteria$/;"	m	struct:srbdmpc::SolverOptions
+tol_ineq	hpipm_imp/include/srbd-mpc/solver_options.hpp	/^  double tol_ineq = 1.0e-04; \/\/ convergence criteria$/;"	m	struct:srbdmpc::SolverOptions
+tol_stat	hpipm_imp/include/srbd-mpc/solver_options.hpp	/^  double tol_stat = 1.0e-04; \/\/ convergence criteria$/;"	m	struct:srbdmpc::SolverOptions
+twist	hpipm_imp/include/srbd-mpc/mpc_solution.hpp	/^  const aligned_vector<Vector6d>& twist() const { return twist_; }$/;"	f	class:srbdmpc::MPCSolution
+twist	hpipm_imp/include/srbd-mpc/robot_state.hpp	/^  const Vector6d& twist() const {$/;"	f	class:srbdmpc::RobotState
+twist_	hpipm_imp/include/srbd-mpc/mpc_solution.hpp	/^  aligned_vector<Vector6d> twist_;$/;"	m	class:srbdmpc::MPCSolution
+twist_local_	hpipm_imp/include/srbd-mpc/robot_state.hpp	/^  Vector6d twist_local_, twist_world_;$/;"	m	class:srbdmpc::RobotState
+twist_world_	hpipm_imp/include/srbd-mpc/robot_state.hpp	/^  Vector6d twist_local_, twist_world_;$/;"	m	class:srbdmpc::RobotState
+update	hpipm_imp/src/mpc_solution.cpp	/^void MPCSolution::update(const ContactSchedule& contact_schedule, $/;"	f	class:srbdmpc::MPCSolution
+update	hpipm_imp/src/robot_state.cpp	/^void RobotState::update(const Vector19d& q, const Vector18d& v) {$/;"	f	class:srbdmpc::RobotState
+updateContactStates	quadprog_imp/mpc/gait_cycle.cpp	/^void GaitCycle::updateContactStates(const double start_time,$/;"	f	class:GaitCycle
+update_r	quadprog_imp/goldfarb/QuadProg++.cc	/^inline void update_r(const GMatr<double> &R, GVect<double> &r,$/;"	f
+update_z	quadprog_imp/goldfarb/QuadProg++.cc	/^inline void update_z(GVect<double> &z, const GMatr<double> &J,$/;"	f
+urdf	hpipm_imp/test/mpc_test.cpp	/^  std::string urdf;$/;"	m	class:srbdmpc::MPCTest	file:
+urdf	hpipm_imp/test/robot_state_test.cpp	/^  std::string urdf;$/;"	m	class:srbdmpc::RobotStateTest	file:
+urdf	hpipm_imp/test/single_rigid_body_test.cpp	/^  std::string urdf;$/;"	m	class:srbdmpc::SingleRigidBodyTest	file:
+use_terminal_cost	quadprog_imp/mpc/srbd_mpc.hpp	/^  bool use_terminal_cost; \/\/ if true, will use the custom terminal cost$/;"	m	class:SRBDMPC
+v	hpipm_imp/include/srbd-mpc/mpc_solution.hpp	/^  const aligned_vector<Vector3d>& v() const { return v_; }$/;"	f	class:srbdmpc::MPCSolution
+v	quadprog_imp/goldfarb/Array.hh	/^  T **v;          \/\/ storage for data$/;"	m	class:GolDIdnani::GMatr
+v	quadprog_imp/goldfarb/Array.hh	/^  T *v;           \/\/ storage for data$/;"	m	class:GolDIdnani::GVect
+v_	hpipm_imp/include/srbd-mpc/mpc_solution.hpp	/^  aligned_vector<Vector3d> v_, w_;$/;"	m	class:srbdmpc::MPCSolution
+v_command_	hpipm_imp/include/srbd-mpc/cost_function.hpp	/^  Vector6d v_command_, dq_command_; $/;"	m	class:srbdmpc::CostFunction
+var	quadprog_imp/goldfarb/Array.hh	/^GVect<T> var(const GMatr<T> &m, bool sample_correction = false) {$/;"	f	namespace:GolDIdnani
+var	quadprog_imp/goldfarb/Array.hh	/^inline T var(const GVect<T> &v, bool sample_correction = false) {$/;"	f	namespace:GolDIdnani
+vcom	hpipm_imp/include/srbd-mpc/gait_command.hpp	/^  Vector3d vcom;$/;"	m	struct:srbdmpc::GaitCommand
+vcom	hpipm_imp/include/srbd-mpc/robot_state.hpp	/^  const Vector3d& vcom() const {$/;"	f	class:srbdmpc::RobotState
+volatile	quadprog_imp/build/CMakeFiles/3.23.1/CompilerIdC/CMakeCCompilerId.c	/^# define volatile$/;"	d	file:
+w	hpipm_imp/include/srbd-mpc/mpc_solution.hpp	/^  const aligned_vector<Vector3d>& w() const { return w_; }$/;"	f	class:srbdmpc::MPCSolution
+w_	hpipm_imp/include/srbd-mpc/mpc_solution.hpp	/^  aligned_vector<Vector3d> v_, w_;$/;"	m	class:srbdmpc::MPCSolution
+w_local_	hpipm_imp/include/srbd-mpc/robot_state.hpp	/^  Vector3d w_local_, w_world_;$/;"	m	class:srbdmpc::RobotState
+w_world_	hpipm_imp/include/srbd-mpc/robot_state.hpp	/^  Vector3d w_local_, w_world_;$/;"	m	class:srbdmpc::RobotState
+warm_start	hpipm_imp/include/srbd-mpc/solver_options.hpp	/^  int warm_start = 0; \/\/ use warm start or not$/;"	m	struct:srbdmpc::SolverOptions
+wcom	hpipm_imp/include/srbd-mpc/robot_state.hpp	/^  const Vector3d& wcom() const {$/;"	f	class:srbdmpc::RobotState
+yaw_rate	hpipm_imp/include/srbd-mpc/gait_command.hpp	/^  double yaw_rate;$/;"	m	struct:srbdmpc::GaitCommand
+~GMatr	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GMatr<T>::~GMatr() {$/;"	f	class:GolDIdnani::GMatr
+~GVect	quadprog_imp/goldfarb/Array.hh	/^template <typename T> GVect<T>::~GVect() {$/;"	f	class:GolDIdnani::GVect
+~GaitCycle	quadprog_imp/mpc/gait_cycle.cpp	/^GaitCycle::~GaitCycle() { std::cout << "[GaitCycle] Destroyed" << std::endl; }$/;"	f	class:GaitCycle
+~ReactionForceSchedule	quadprog_imp/mpc/reaction_force_schedule.cpp	/^ReactionForceSchedule::~ReactionForceSchedule() {}$/;"	f	class:ReactionForceSchedule
+~SRBDMPC	quadprog_imp/mpc/srbd_mpc.cpp	/^SRBDMPC::~SRBDMPC() {}$/;"	f	class:SRBDMPC

@@ -27,3 +27,7 @@ add_subdirectory(mpc)
 
 add_executable(main main.cpp)
 target_link_libraries(main mpc goldfarb)
+
+set(THIS_COM "${PROJECT_SOURCE_DIR}/")
+CONFIGURE_FILE(${PROJECT_SOURCE_DIR}/config.h.cmake
+    ${PROJECT_SOURCE_DIR}/configuration.hpp)
