@@ -1150,10 +1150,11 @@ void SRBDMPC::CleaningFile(std::string _file_name, std::string &_ret_file,
   _ret_file += _file_name;
   _ret_file += ".txt";
 
-  // std::list<std::string>::iterator iter = std::find(
-  // gs_fileName_string.begin(), gs_fileName_string.end(), _file_name);
-  // if (gs_fileName_string.end() == iter) {
-  // gs_fileName_string.push_back(_file_name);
+  // std::list<std::string>::iterator iter =
+  // std::find(SRBDMPC::gs_fileName_string.begin(),
+  // SRBDMPC::gs_fileName_string.end(), _file_name);
+  // if (SRBDMPC::gs_fileName_string.end() == iter) {
+  // SRBDMPC::gs_fileName_string.push_back(_file_name);
   // remove(_ret_file.c_str());
   //}
 }
